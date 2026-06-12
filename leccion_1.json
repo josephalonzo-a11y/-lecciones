@@ -1,0 +1,69 @@
+{
+  "numero": "1",
+  "titulo": "CAPÍTULO PRIMERO: EL TIEMPO PASADO DEL VERBO",
+  "explicacion": "I. GRAMÁTICA\n1. El Infinitivo del Verbo (Ejemplo: ver, ser, estar) se forman en Miskito, añadiendo a la raíz la terminación aia.\nEjemplo: kaik aia (ver), bal aia (venir), wi aia (decir).\n\n2. El tiempo pasado del verbo (Ejemplo: vi, fui, estuve) se forma añadiendo a la raíz las siguientes terminaciones (Pasado Indefinido):\n-ri ➔ kaik ri (kaikri) / bal ri (balri) / wi ri (wîri)\n-ram ➔ kaik ram (kaikram) / bal ram (balram) / wi ram (wiram)\n-an / -in ➔ kaik an (kaikan) / bal an (balan) / w in (win)\n\nNOTA: En los Ejercicios de este Capítulo, se estará practicando y enfatizando más el Pasado Indefinido.\n\n3. El Pasado Absoluto se forma añadiendo a la raíz las siguientes terminaciones:\n-atna (-atni) ➔ kaikatna / balatna / wisatna\n-atma ➔ kaikatma / balatma / wisatma\n-ata (-ati) ➔ kaikata / balata / wisata\n\n4. Formas en tiempo pasado del verbo kaia (ser, estar, haber):\nkapri (yo estuve/era), kapram (tú estuviste/eras), kan (él/ella estuvo/era).\n\nII. VOCABULARIO\naras: caballo\nbîp: vaca\ninsla: finca, monte\nmairin: mujer\nsukra: suegra\ntuktan: niño, hijo\nutla: casa\nwaitna: hombre\nyul: perro\nnâra: aquí\nbâra: ahí, allí",
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Man nani nâra balram.",
+      "respuesta_guia": "Ustedes vinieron aquí."
+    },
+    {
+      "pregunta": "Traduzca: Witin nani insla ra wan.",
+      "respuesta_guia": "Ellos/Ellas fueron a la finca."
+    },
+    {
+      "pregunta": "Traduzca: Waitna ba tuktan nani ba insla ra kaikan.",
+      "respuesta_guia": "El hombre vio a los niños en la finca."
+    },
+    {
+      "pregunta": "Traduzca: Yang tuktan ra prukri.",
+      "respuesta_guia": "Yo golpeé al niño."
+    },
+    {
+      "pregunta": "Traduzca: Witin bâra kan.",
+      "respuesta_guia": "Él/Ella estaba allí."
+    },
+    {
+      "pregunta": "Traduzca: Man insla ra kapram.",
+      "respuesta_guia": "Tú estuviste en la finca."
+    },
+    {
+      "pregunta": "Traduzca: Yang waitna ba utla ra kaikri.",
+      "respuesta_guia": "Yo vi al hombre en la casa."
+    },
+    {
+      "pregunta": "Traduzca: Yul ba utla ra wan.",
+      "respuesta_guia": "El perro se fue a la casa."
+    },
+    {
+      "pregunta": "Traduzca: Ustedes vieron al hombre en la casa.",
+      "respuesta_guia": "Man nani waitna ba utla ra kaikram."
+    },
+    {
+      "pregunta": "Traduzca: Los perros se fueron a la casa.",
+      "respuesta_guia": "Yul nani ba utla ra wan."
+    }
+  ],
+  "completaciones": [
+    {
+      "oracion": "Yang nani waitna nani wal insla ra ___ (fuimos).",
+      "respuesta_correcta": "wari"
+    },
+    {
+      "oracion": "Man nani nâra ___ (vinieron).",
+      "respuesta_correcta": "balram"
+    },
+    {
+      "oracion": "Witin nani insla ra ___ (fueron).",
+      "respuesta_correcta": "wan"
+    },
+    {
+      "oracion": "Mairin nani ba utla ra ___ (vieron).",
+      "respuesta_correcta": "kaikan"
+    },
+    {
+      "oracion": "Yang waitna ba utla ra ___ (vi).",
+      "respuesta_correcta": "kaikri"
+    }
+  ]
+}
