@@ -1,0 +1,69 @@
+{
+  "numero": "5",
+  "titulo": "CAPÍTULO QUINTO: EL IMPERATIVO Y LAS FORMAS NEGATIVAS DEL VERBO",
+  "explicacion": "I. GRAMÁTICA\n1. Imperativo (Órdenes en Segunda Persona):\n• Orden Positiva: Raíz + s. Ejemplo: plaps (corra usted) / dims (entre usted).\n• Orden Negativa: Raíz + para. Ejemplo: plappara (no corra usted) / dimpara (no entre usted).\n\n2. Imperativo Plural (Primera Persona): Se añade la terminación 'pi'. Ejemplo: plappi (corramos nosotros).\n\n3. Formas Negativas:\n• Tiempo Presente: Se añade 'ras' a la raíz. Ejemplo: Witin plapras (él no corre).\n• Tiempo Pasado: Se añade 'ras' + el pasado de kaia (kan/kapri/kapram). Ejemplo: Witin plapras kan (él no corrió).\n\n4. Formas Irregulares Importantes:\n• kaia (ser/estar) ➔ bas (esté/sé), kapara (no estés), apia sna (no estoy), apia kapri (no estuve).\n• balaia (venir) ➔ bal (ven/venga).\n• iwaia (sentarse) ➔ iws (siéntese), iwpara (no te sientes), iwras (no sentado).\n\nII. VOCABULARIO\n• Verbos: alkaia (coger/agarrar), buaia (pararse), bukaia (levantar), iwaia (sentarse/vivir), lulkaia (tirar), twilkaia (cargar/llevar), yapaia (dormir).\n• Otros: apia (no), siksa (banano/negro), bîk (saco), baks (caja), krikri (cama), sir (silla), sâp (callado), yamni/pain (bueno/bien), pat (ya), saura (malo), bâl (bola/pelota).",
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Tuktan nani ba krikri wala ra yapras.",
+      "respuesta_guia": "Los niños no duermen en la otra cama."
+    },
+    {
+      "pregunta": "Traduzca: Witin nâra apia sa.",
+      "respuesta_guia": "Él/Ella no está aquí."
+    },
+    {
+      "pregunta": "Traduzca: Man utla tara ra dimpara.",
+      "respuesta_guia": "Usted no entre a la casa grande."
+    },
+    {
+      "pregunta": "Traduzca: Nâra bal.",
+      "respuesta_guia": "Ven aquí."
+    },
+    {
+      "pregunta": "Traduzca: Dur ba praks.",
+      "respuesta_guia": "Cierre la puerta."
+    },
+    {
+      "pregunta": "Traduzca: Kwirku wîna ba rais wal pis.",
+      "respuesta_guia": "Coma la carne de cerdo con arroz."
+    },
+    {
+      "pregunta": "Traduzca: Skul ra was.",
+      "respuesta_guia": "Vaya a la escuela."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Váyase a casa.",
+      "respuesta_guia": "Utla ra was."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Levántese.",
+      "respuesta_guia": "Bwas."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo no estoy haciendo la casa.",
+      "respuesta_guia": "Yang utla ba daukras sna."
+    }
+  ],
+  "completaciones": [
+    {
+      "oracion": "Baks ba buks (Levante la caja). ➔ Baks ba ___ (No levante la caja).",
+      "respuesta_correcta": "bukpara"
+    },
+    {
+      "oracion": "Sir ra iws (Siéntese en la silla). ➔ Sir ra ___ (No se siente en la silla).",
+      "respuesta_correcta": "iwpara"
+    },
+    {
+      "oracion": "Krikri ra yaps (Duérmase en la cama). ➔ Krikri ra ___ (No se duerma en la cama).",
+      "respuesta_correcta": "yappara"
+    },
+    {
+      "oracion": "Bâl ba lulks (Tire la bola). ➔ Witin nani bâl ba pain ___ kan (Ellos no tiraron bien la bola).",
+      "respuesta_correcta": "lulkras"
+    },
+    {
+      "oracion": "Sâp bas (Cállese). ➔ Sâp ___ (No estés callado/no te calles).",
+      "respuesta_correcta": "kapara"
+    }
+  ]
+}

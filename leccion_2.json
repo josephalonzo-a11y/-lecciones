@@ -1,0 +1,69 @@
+{
+  "numero": "2",
+  "titulo": "CAPÍTULO SEGUNDO: LOS ACOMPAÑANTES DEL SUSTANTIVO",
+  "explicacion": "I. GRAMÁTICA\n1. Los Artículos: En Miskito, el más común es 'ba' (el, la). Este artículo siempre va después del sustantivo o su adjetivo. También se usa la partícula 'kum' que significa un, una.\nEjemplo: Waitna ba (el hombre) / Waitna kum (un hombre).\n\n2. Los Adjetivos: Siguen siempre al sustantivo, pero van antes del artículo.\nEjemplo: Waitna tara (hombre grande) / Waitna tara ba (el hombre grande).\n\n3. Las Posposiciones: Se usan en lugar de las preposiciones del español y van después del sustantivo o adjetivo. Ejemplo:\nWaitna tara ra: al (a el) hombre grande.\n\nII. VOCABULARIO\n• Adjetivos: pauni (rojo), pihni (blanco), sangni (verde/azul), siksa (negro), sirpi (pequeño), tara (grande), wainhka (masculino), wala (otro).\n• Artículos y Posposiciones: ba (el/la), kum (un/una), ra (en/a), wina (de/desde).\n• Otros: dimaia (entrar), plapaia (correr), wapaia (caminar), kabu (océano/mar), skul (escuela), yabal (camino).",
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang utla pihni ra plapri.",
+      "respuesta_guia": "Yo corrí a la casa blanca."
+    },
+    {
+      "pregunta": "Traduzca: Waitna tara ba kabu ra diman.",
+      "respuesta_guia": "El hombre grande entró al mar."
+    },
+    {
+      "pregunta": "Traduzca: Mairin sirpi nani ba yabal ra wapan.",
+      "respuesta_guia": "Las mujeres pequeñas caminaron en el camino."
+    },
+    {
+      "pregunta": "Traduzca: Tuktan nani ba kabu wina utla ra balan.",
+      "respuesta_guia": "Los niños vinieron a la casa desde el mar."
+    },
+    {
+      "pregunta": "Traduzca: Aras pauni sirpi ba insla wina balan.",
+      "respuesta_guia": "El caballo rojo pequeño vino desde la finca."
+    },
+    {
+      "pregunta": "Traduzca: Mairin pihni ba skul ra wan.",
+      "respuesta_guia": "La mujer blanca fue a la escuela."
+    },
+    {
+      "pregunta": "Traduzca: Yang yabal wala ra wari.",
+      "respuesta_guia": "Yo fui a otro camino."
+    },
+    {
+      "pregunta": "Traduzca: Los niños pequeños se fueron a la escuela.",
+      "respuesta_guia": "Tuktan sirpi nani ba skul ra wan."
+    },
+    {
+      "pregunta": "Traduzca: De la casa fuimos al mar.",
+      "respuesta_guia": "Utla ba wina kabu ra wari."
+    },
+    {
+      "pregunta": "Traduzca: Los perros negros estaban en la casa pequeña.",
+      "respuesta_guia": "Yul siksa nani ba utla sirpi ra kan."
+    }
+  ],
+  "completaciones": [
+    {
+      "oracion": "Yang yabal ra plapri. ➔ Yang utla sirpi ra ___ (entré).",
+      "respuesta_correcta": "dimri"
+    },
+    {
+      "oracion": "Man kabu tara ra dimram. ➔ Man utla sirpi ra ___ (corriste).",
+      "respuesta_correcta": "plapram"
+    },
+    {
+      "oracion": "Witin utla ra plapan. ➔ Witin skul tara ra ___ (entró).",
+      "respuesta_correcta": "diman"
+    },
+    {
+      "oracion": "Mairin sirpi nani ba pihni kan. ➔ Mairin sirpi nani ba yabal ra ___ (caminaron).",
+      "respuesta_correcta": "wapan"
+    },
+    {
+      "oracion": "Aras pauni sirpi ba insla ___ balan (desde la/de la).",
+      "respuesta_correcta": "wina"
+    }
+  ]
+}

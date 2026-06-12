@@ -1,0 +1,69 @@
+{
+  "numero": "3",
+  "titulo": "CAPÍTULO TERCERO: EL TIEMPO PRESENTE DEL VERBO",
+  "explicacion": "I. GRAMÁTICA\n1. El tiempo presente (Presente Indefinido) se forma añadiendo a la raíz las terminaciones:\n-isna (Yo) ➔ kaikisna (veo)\n-isma (Tú) ➔ kaikisma (ves)\n-isa (Él/Ella) ➔ kaikisa (ve) / pîsa (come)\n\n2. El tiempo Presente Absoluto se forma añadiendo a la raíz las terminaciones: -una, -uma, -uya. Ejemplo: kaikuna, kaikuma, kaikuya.\n\n3. Verbos Irregulares importantes en Presente Absoluto:\n• kaia (ser/estar) ➔ sna (soy/estoy), sma (eres/estás), sa (es/está)\n• balaia (venir) ➔ aulna (vengo), aulma (vienes), aula (viene)\n• waia (ir) ➔ auna (voy), auma (vas), auya (va)\n\nII. VOCABULARIO\n• Verbos: aisaia (hablar), daukaia (hacer), diaia (beber/tomar), kwâkaia (abrir), piaia (comer), prakaia (cerrar).\n• Otros: bara/an (y), bins (frijoles), damni (dulce), dur (puerta), kwirku (cerdo), lî (agua), plun (comida), rais (arroz), wîna (carne).",
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang rais an bins pisna.",
+      "respuesta_guia": "Yo como arroz y frijoles."
+    },
+    {
+      "pregunta": "Traduzca: Man nani plun damni daukisma.",
+      "respuesta_guia": "Ustedes hacen comida dulce."
+    },
+    {
+      "pregunta": "Traduzca: Waitna pihni ba man wal aisisa.",
+      "respuesta_guia": "El hombre blanco habla con usted."
+    },
+    {
+      "pregunta": "Traduzca: Witin tuktan sirpi ba kaikisa.",
+      "respuesta_guia": "Él/Ella ve al niño pequeño."
+    },
+    {
+      "pregunta": "Traduzca: Kwirku nani ba utla ra dimisa.",
+      "respuesta_guia": "Los cerdos entran a la casa."
+    },
+    {
+      "pregunta": "Traduzca: Yang bîp mairin wal insla wina aulna.",
+      "respuesta_guia": "Yo vengo de la finca con la vaca."
+    },
+    {
+      "pregunta": "Traduzca: Tuktan nani ba dur ba kwâkisa.",
+      "respuesta_guia": "Los niños abren la puerta."
+    },
+    {
+      "pregunta": "Traduzca: Tuktan sirpi nani ba lî damni disa.",
+      "respuesta_guia": "Los niños pequeños beben agua dulce."
+    },
+    {
+      "pregunta": "Traduzca: Yo cerré la puerta.",
+      "respuesta_guia": "Yang dur ba prakri."
+    },
+    {
+      "pregunta": "Traduzca: De la escuela nos vamos al mar.",
+      "respuesta_guia": "Skul wina kabu ra auna."
+    }
+  ],
+  "completaciones": [
+    {
+      "oracion": "Yang utla ra auna. ➔ Yang utla ra ___ (entro).",
+      "respuesta_correcta": "dimisna"
+    },
+    {
+      "oracion": "Witin utla ra auya. ➔ Witin utla ra ___ (corre).",
+      "respuesta_correcta": "plapisa"
+    },
+    {
+      "oracion": "Tuktan sirpi skul ra pîsa. ➔ Tuktan sirpi plun damni ___ (hace).",
+      "respuesta_correcta": "daukisa"
+    },
+    {
+      "oracion": "Yang nani lî sangni ___ (bebemos).",
+      "respuesta_correcta": "disna"
+    },
+    {
+      "oracion": "Man dur ba ___ (cierras).",
+      "respuesta_correcta": "prakisma"
+    }
+  ]
+}
