@@ -1,0 +1,166 @@
+[
+    {
+        "palabra":"¿Cómo está usted?",
+        "significado":"¿Nahki sma?"
+    },
+    {
+        "palabra":"¡Hola, Pedro! ¿Cómo estás?",
+        "significado":"¡Naksa, Pedro! ¿Nahki sma?"
+    },
+    {
+        "palabra":"Yo estoy bien.",
+        "significado":"Yang pain sna."
+    },
+    {
+        "palabra":"Ellos están bien.",
+        "significado":"Witin nani pain sa."
+    },
+    {
+        "palabra":"¿Y usted?",
+        "significado":"¿Bara man?"
+    },
+    {
+        "palabra":"Yo también estoy bien.",
+        "significado":"Yang sin pain sna."
+    },
+    {
+        "palabra":"No estoy bien. No me siento bien.",
+        "significado":"Yang pain apia sna."
+    },
+    {
+        "palabra":"¿Qué tienes?",
+        "significado":"¿Dîa brisma?"
+    },
+    {
+        "palabra":"Estoy enfermo(a).",
+        "significado":"Siknis ai daukisa (Siknis sna)."
+    },
+    {
+        "palabra":"Me duele la cabeza.",
+        "significado":"Laila klauhisa."
+    },
+    {
+        "palabra":"Me duele el estómago. Me duele la barriga.",
+        "significado":"Biaira klauhisa."
+    },
+    {
+        "palabra":"¿Ya fuiste al hospital?",
+        "significado":"¿Aspital ra pat waram?"
+    },
+    {
+        "palabra":"Sí, ya fui al hospital.",
+        "significado":"Âo, aspital ra pat wari."
+    },
+    {
+        "palabra":"Sí, ya fui al médico.",
+        "significado":"Âo, daktar ra pat wari."
+    },
+    {
+        "palabra":"¿Qué te dijo el médico?",
+        "significado":"¿Daktar bui dîa mai win?"
+    },
+    {
+        "palabra":"Me dio remedio (pastilla), para que me alivie.",
+        "significado":"Sîka (pils) aikan, rawamna dukiara."
+    },
+    {
+        "palabra":"¿Quién es esa persona?",
+        "significado":"¿Baha uplika ba ya?"
+    },
+    {
+        "palabra":"Buenos días.",
+        "significado":"Titan yamni (Manin)."
+    },
+    {
+        "palabra":"Buenas tardes.",
+        "significado":"Tutni yamni."
+    },
+    {
+        "palabra":"Buenas noches.",
+        "significado":"Tihmia yamni (Saiwan yamni)."
+    },
+    {
+        "palabra":"Buenas noches (Duerma bien).",
+        "significado":"Yamni yaps (Kaiki yaps)."
+    },
+    {
+        "palabra":"Tengo sueño.",
+        "significado":"Yapan ai daukisa."
+    },
+    {
+        "palabra":"¿Cómo te llamas?",
+        "significado":"¿Man ninam dîa?"
+    },
+    {
+        "palabra":"Me llamo _______________.",
+        "significado":"Yang nini ___________."
+    },
+    {
+        "palabra":"Me alegro de conocerlo(a).",
+        "significado":"Lilia sna mai kakaira takaia."
+    },
+    {
+        "palabra":"Me alegro de volver a verlo(a).",
+        "significado":"Lilia sna kli mai kaikaia."
+    },
+    {
+        "palabra":"¿De dónde es usted?",
+        "significado":"¿Man ani wina?"
+    },
+    {
+        "palabra":"Soy de Waspam (Bilwi).",
+        "significado":"Yang Waspam (Bilwi) wina."
+    },
+    {
+        "palabra":"¿Vives aquí?",
+        "significado":"¿Man nâra iwisma?"
+    },
+    {
+        "palabra":"Vivo en Masaya.",
+        "significado":"Yang Masaya ra iwisna."
+    },
+    {
+        "palabra":"Sí, yo vivo aquí.",
+        "significado":"Âo, yang nâra iwisna."
+    },
+    {
+        "palabra":"¿Tienes esposo(a)?",
+        "significado":"¿Mayam brisma?"
+    },
+    {
+        "palabra":"Sí, tengo mi esposo(a).",
+        "significado":"Âo, yang mayi brisna."
+    },
+    {
+        "palabra":"No, yo no tengo esposo(a).",
+        "significado":"Apia, yang mayi âpu."
+    },
+    {
+        "palabra":"¿Tienes mujer?",
+        "significado":"¿Man mairin brisma?"
+    },
+    {
+        "palabra":"¿Tienes hombre?",
+        "significado":"¿Man waitna brisma?"
+    },
+    {
+        "palabra":"¿Cuántos años tienes?",
+        "significado":"¿Mani an brisma? ¿Nahki mani brisma?"
+    },
+    {
+        "palabra":"Tengo __________ años.",
+        "significado":"Yang mani __________ brisna."
+    },
+    {
+        "palabra":"¿Tienes hermanos(as)?",
+        "significado":"¿Muihkam (lamkra) nani brisma?"
+    },
+    {
+        "palabra":"Sí, tengo _____ hermanos(as).",
+        "significado":"Âo, muihki _____ brisna."
+    },
+    {
+        "palabra":"¿Qué es esto?",
+        "significado":"¿Naha dîa?"
+    }
+]
