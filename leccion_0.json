@@ -1,39 +1,175 @@
 {
   "numero": "0",
   "titulo": "Frases y Expresiones Básicas",
-  "explicacion": "I. GUÍA DE CONVERSACIÓN (MISKITO - ESPAÑOL)\n\n• ¿Nahki sma? ➔ ¿Cómo está usted?\n• ¡Naksa, Pedro! ¿Nahki sma? ➔ ¡Hola, Pedro! ¿Cómo estás?\n• Yang pain sna. ➔ Yo estoy bien.\n• Witin nani pain sa. ➔ Ellos están bien.\n• ¿Bara man? ➔ ¿Y usted?\n• Yang sin pain sna. ➔ Yo también estoy bien.\n• Yang pain apia sna. ➔ No estoy bien. No me siento bien.\n• ¿Dîa brisma? ➔ ¿Qué tienes?\n• Siknis ai daukisa (Siknis sna). ➔ Estoy enfermo(a).\n• Laila klauhisa. ➔ Me duele la cabeza.\n• Biaira klauhisa. ➔ Me duele el estómago / la barriga.\n• ¿Aspital ra pat waram? ➔ ¿Ya fuiste al hospital?\n• Âo, aspital ra pat wari. ➔ Sí, ya fui al hospital.\n• Âo, daktar ra pat wari. ➔ Sí, ya fui al médico.\n• ¿Daktar bui dîa mai win? ➔ ¿Qué te dijo el médico?\n• Sîka (pils) aikan, rawamna dukiara. ➔ Me dio remedio (pastilla), para que me alivie.\n• ¿Baha uplika ba ya? ➔ ¿Quién es esa persona?\n• Titan yamni (Manin). ➔ Buenos días.\n• Tutni yamni. ➔ Buenas tardes.\n• Tihmia yamni (Saiwan yamni). ➔ Buenas noches.\n• Yamni yaps (Kaiki yaps). ➔ Buenas noches (Duerma bien).\n• Yapan ai daukisa. ➔ Tengo sueño.\n• ¿Man ninam dîa? ➔ ¿Cómo te llamas?\n• Yang nini ___________. ➔ Me llamo _______________.\n• Lilia sna mai kakaira takaia. ➔ Me alegro de conocerlo(a).\n• Lilia sna kli mai kaikaia. ➔ Me alegro de volver a verlo(a).\n• ¿Man ani wina? ➔ ¿De dónde es usted?\n• Yang Waspam (Bilwi) wina. ➔ Soy de Waspam (Bilwi).\n• ¿Man nâra iwisma? ➔ ¿Vives aquí?\n• Yang Masaya ra iwisna. ➔ Vivo en Masaya.\n• Âo, yang nâra iwisna. ➔ Sí, yo vivo aquí.\n• ¿Mayam brisma? ➔ ¿Tienes esposo(a)?\n• Âo, yang mayi brisna. ➔ Sí, tengo mi esposo(a).\n• Apia, yang mayi âpu. ➔ No, yo no tengo esposo(a).\n• ¿Man mairin brisma? ➔ ¿Tienes mujer?\n• ¿Man waitna brisma? ➔ ¿Tienes hombre?\n• ¿Mani an brisma? / ¿Nahki mani brisma? ➔ ¿Cuántos años tienes?\n• Yang mani __________ brisna. ➔ Tengo __________ años.\n• ¿Muihkam (lamkra) nani brisma? ➔ ¿Tienes hermanos(as)?\n• Âo, muihki _____ brisna. ➔ Sí, tengo _____ hermanos(as).\n• ¿Naha dîa? ➔ ¿Qué es esto?",
+  "explicacion": "I. GUÍA DE CONVERSACIÓN (MISKITO - ESPAÑOL)\n\nEn esta lección practicarás las expresiones y frases más comunes de la vida cotidiana en Miskito.\n\nUtiliza las pestañas de abajo para realizar los ejercicios interactivos de traducción (Opción B) y completación (Opción C) basados en todo el vocabulario del capítulo.",
   
   "preguntas_interactivas": [
     {
-      "pregunta": "¿Cómo se traduce la frase 'Yang pain sna'?",
+      "pregunta": "¿Cómo se traduce: ¿Nahki sma?",
+      "respuesta_guia": "¿Cómo está usted?"
+    },
+    {
+      "pregunta": "Traduzca: ¡Naksa, Pedro! ¿Nahki sma?",
+      "respuesta_guia": "¡Hola, Pedro! ¿Cómo estás?"
+    },
+    {
+      "pregunta": "¿Qué significa la frase: Yang pain sna.",
       "respuesta_guia": "Yo estoy bien."
     },
     {
-      "pregunta": "¿Qué significa 'Titan yamni'?",
-      "respuesta_guia": "Buenos días."
+      "pregunta": "Traduzca al Español: Witin nani pain sa.",
+      "respuesta_guia": "Ellos están bien."
     },
     {
-      "pregunta": "¿Cómo se pregunta '¿Cómo te llamas?' en Miskito?",
-      "respuesta_guia": "¿Man ninam dîa?"
+      "pregunta": "¿Cómo se dice en Español: ¿Bara man?",
+      "respuesta_guia": "¿Y usted?"
     },
     {
-      "pregunta": "Traduzca la pregunta: ¿Man ani wina?",
-      "respuesta_guia": "¿De dónde es usted?"
+      "pregunta": "Traduzca: Yang sin pain sna.",
+      "respuesta_guia": "Yo también estoy bien."
+    },
+    {
+      "pregunta": "¿Qué significa: Yang pain apia sna.",
+      "respuesta_guia": "No estoy bien. No me siento bien."
+    },
+    {
+      "pregunta": "Traduzca la pregunta: ¿Dîa brisma?",
+      "respuesta_guia": "¿Qué tienes?"
+    },
+    {
+      "pregunta": "¿Cómo se traduce: Siknis ai daukisa (Siknis sna).",
+      "respuesta_guia": "Estoy enfermo(a)."
+    },
+    {
+      "pregunta": "Traduzca al Español: Laila klauhisa.",
+      "respuesta_guia": "Me duele la cabeza."
+    },
+    {
+      "pregunta": "¿Qué significa la frase: Biaira klauhisa.",
+      "respuesta_guia": "Me duele el estómago. Me duele la barriga."
+    },
+    {
+      "pregunta": "Traduzca: ¿Aspital ra pat waram?",
+      "respuesta_guia": "¿Ya fuiste al hospital?"
+    },
+    {
+      "pregunta": "Traduzca al Español: Âo, aspital ra pat wari.",
+      "respuesta_guia": "Sí, ya fui al hospital."
+    },
+    {
+      "pregunta": "¿Cómo se traduce: Âo, daktar ra pat wari.",
+      "respuesta_guia": "Sí, ya fui al médico."
+    },
+    {
+      "pregunta": "Traduzca la pregunta: ¿Daktar bui dîa mai win?",
+      "respuesta_guia": "¿Qué te dijo el médico?"
+    },
+    {
+      "pregunta": "¿Qué significa: Sîka (pils) aikan, rawamna dukiara.",
+      "respuesta_guia": "Me dio remedio (pastilla), para que me alivie."
+    },
+    {
+      "pregunta": "Traduzca: ¿Baha uplika ba ya?",
+      "respuesta_guia": "¿Quién es esa persona?"
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Buenos días' en Miskito?",
+      "respuesta_guia": "Titan yamni (Manin)."
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Buenas tardes' en Miskito?",
+      "respuesta_guia": "Tutni yamni."
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Buenas noches' en Miskito?",
+      "respuesta_guia": "Tihmia yamni (Saiwan yamni)."
+    },
+    {
+      "pregunta": "Traduzca al Español: Yamni yaps (Kaiki yaps).",
+      "respuesta_guia": "Buenas noches (Duerma bien)."
     }
   ],
   
   "completaciones": [
     {
-      "oracion": "Para decir 'Buenas tardes' se usa la palabra: ___ yamni.",
-      "respuesta_correcta": "tutni"
+      "oracion": "Tengo sueño ➔ ___ ai daukisa.",
+      "respuesta_correcta": "yapan"
     },
     {
-      "oracion": "La respuesta a '¿Man nâra iwisma?' (¿Vives aquí?) de forma afirmativa es: Âo, yang nâra ___.",
+      "oracion": "¿Cómo te llamas? ➔ ¿Man ___ dîa?",
+      "respuesta_correcta": "ninam"
+    },
+    {
+      "oracion": "Me llamo... ➔ Yang ___ __________.",
+      "respuesta_correcta": "nini"
+    },
+    {
+      "oracion": "Me alegro de conocerlo(a) ➔ Lilia sna mai ___ takaia.",
+      "respuesta_correcta": "kakaira"
+    },
+    {
+      "oracion": "Me alegro de volver a verlo(a) ➔ Lilia sna kli mai ___.",
+      "respuesta_correcta": "kaikaia"
+    },
+    {
+      "oracion": "¿De dónde es usted? ➔ ¿Man ___ wina?",
+      "respuesta_correcta": "ani"
+    },
+    {
+      "oracion": "Soy de Waspam (Bilwi) ➔ Yang Waspam (Bilwi) ___.",
+      "respuesta_correcta": "wina"
+    },
+    {
+      "oracion": "¿Vives aquí? ➔ ¿Man nâra ___?",
+      "respuesta_correcta": "iwisma"
+    },
+    {
+      "oracion": "Vivo en Masaya ➔ Yang Masaya ra ___.",
       "respuesta_correcta": "iwisna"
     },
     {
-      "oracion": "Si te duele la cabeza dices: ___ klauhisa.",
-      "respuesta_correcta": "laila"
+      "oracion": "Sí, yo vivo aquí ➔ Âo, yang nâra ___.",
+      "respuesta_correcta": "iwisna"
+    },
+    {
+      "oracion": "¿Tienes esposo(a)? ➔ ¿___ brisma?",
+      "respuesta_correcta": "mayam"
+    },
+    {
+      "oracion": "Sí, tengo mi esposo(a) ➔ Âo, yang ___ brisna.",
+      "respuesta_correcta": "mayi"
+    },
+    {
+      "oracion": "No, yo no tengo esposo(a) ➔ Apia, yang mayi ___.",
+      "respuesta_correcta": "âpu"
+    },
+    {
+      "oracion": "¿Tienes mujer? ➔ ¿Man ___ brisma?",
+      "correcta": "mairin"
+    },
+    {
+      "oracion": "¿Tienes hombre? ➔ ¿Man ___ brisma?",
+      "respuesta_correcta": "waitna"
+    },
+    {
+      "oracion": "¿Cuántos años tienes? ➔ ¿___ an brisma?",
+      "respuesta_correcta": "mani"
+    },
+    {
+      "oracion": "Tengo ___ años ➔ Yang mani __________ ___.",
+      "respuesta_correcta": "brisna"
+    },
+    {
+      "oracion": "¿Tienes hermanos(as)? ➔ ¿___ nani brisma?",
+      "respuesta_correcta": "muihkam"
+    },
+    {
+      "oracion": "Sí, tengo ___ hermanos(as) ➔ Âo, ___ _____ brisna.",
+      "respuesta_correcta": "muihki"
+    },
+    {
+      "oracion": "¿Qué es esto? ➔ ¿Naha ___?",
+      "respuesta_correcta": "dîa"
     }
   ]
 }
