@@ -1,0 +1,25 @@
+{
+  "explicacion": "CAPÍTULO SEGUNDO: LOS ACOMPAÑANTES DEL SUSTANTIVO\n\nI. GRAMÁTICA\n1. Los Artículos: En Miskito el más común es 'ba' (el, la). Siempre va después del sustantivo. También se usa 'kum' (un, una).\nEjemplo: Waitna ba (el hombre), Waitna kum (un hombre).\n\n2. Los Adjetivos: Siguen siempre al sustantivo, pero van antes del artículo.\nEjemplo: Waitna tara ba (el hombre grande).\n\n3. Las Posposiciones: Van después del sustantivo o adjetivo. Ejemplo: 'ra' (en, a).",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "¿Cómo se traduce 'El hombre grande entró a la finca'?",
+      "respuesta_guia": "Waitna tara ba insla ra diman."
+    },
+    {
+      "pregunta": "¿Qué significa 'Yang utla pihni ra plapri'?",
+      "respuesta_guia": "Yo corrí a la casa blanca."
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Mairin sirpi nani ba yabal ra ___ (caminaron).",
+      "respuesta_correcta": "wapan"
+    },
+    {
+      "oracion": "Aras pauni sirpi ba insla ___ balan (desde la/de la).",
+      "respuesta_correcta": "wina"
+    }
+  ]
+}

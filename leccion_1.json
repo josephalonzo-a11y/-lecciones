@@ -1,0 +1,33 @@
+{
+  "explicacion": "CAPÍTULO PRIMERO: EL TIEMPO PASADO DEL VERBO\n\nI. GRAMÁTICA\n1. El Infinitivo del Verbo se forma en Miskito añadiendo a la raíz la terminación 'aia'.\nEjemplo: kaik aia (ver), bal aia (venir), wi aia (decir).\n\n2. El tiempo pasado del verbo (Pasado Indefinido) se forma añadiendo a la raíz:\n-ri (Yo) -> kaikri (vi)\n-ram (Tú) -> kaikram (viste)\n-an / -in (Él/Ella) -> kaikan (vio) / win (dijo)\n\n3. Formas del verbo 'kaia' (ser, estar, haber):\nkapri (yo estuve), kapram (tú estuviste), kan (él/ella estuvo).",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "¿Cómo se dice 'Yo vi las vacas' en Miskito?",
+      "respuesta_guia": "Yang bîp nani kaikri."
+    },
+    {
+      "pregunta": "¿Cómo se traduce 'Tuktan nani nâra balan'?",
+      "respuesta_guia": "Los niños vinieron aquí."
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Ellos golpearon al caballo'?",
+      "respuesta_guia": "Witin nani aras ra prukan."
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Man nani nâra ___ (ustedes vinieron).",
+      "respuesta_correcta": "balram"
+    },
+    {
+      "oracion": "Witin nani insla ra ___ (ellos fueron).",
+      "respuesta_correcta": "wan"
+    },
+    {
+      "oracion": "Yang waitna ba utla ra ___ (yo vi).",
+      "respuesta_correcta": "kaikri"
+    }
+  ]
+}
