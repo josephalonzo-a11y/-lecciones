@@ -1,0 +1,71 @@
+{
+  "numero": "13",
+  "titulo": "CAPÍTULO DÉCIMOTERCERO: LA PALABRA DE DIOS",
+  "explicacion": "## I. GRAMÁTICA: LA VOZ PASIVA\n\nLa Voz Pasiva expresa que el sujeto es el recipiente o afectado por la acción de otra entidad[cite: 8]. En Miskito se estructura combinando la **Forma Objetiva del Pronombre** + el verbo principal en participio/pasado + el auxiliar correspondiente al tiempo verbal[cite: 8].\n\n### Ejemplos Esenciales\n* **Kraist mita swaki ai sakankan.** ➔ Yo fui salvado por Cristo[cite: 8].\n* **Kraist mita swaki mai sakan kabia.** ➔ Usted será salvado por Cristo[cite: 8].\n* **Kraist mita witin ba swaki sakan sa.** ➔ Él es salvado por Cristo[cite: 8].\n\n### Modelos de Estructuración\n* **Ai kaikan sa** (Soy visto/visto soy)[cite: 8].\n* **Mai prukan kabia** (Serás golpeado)[cite: 8].\n* **Witin ba blikan kan** (Él había sido enviado)[cite: 8].\n\n---\n\n## II. VOCABULARIO\n\n> *Nota:* Históricamente, muchas palabras teológicas en Miskito han sido préstamos adaptados del inglés, conviviendo progresivamente con un vocabulario religioso autóctono desarrollado por traductores nativos[cite: 8].\n\n### Verbos\n* **bîla kaikaia:** esperar[cite: 8]\n* **Dawan ra tawaia:** convertirse (aceptar al Señor)[cite: 8]\n* **Dawan warkka daukaia:** vivir como cristiano / hacer la obra del Señor[cite: 8]\n* **kasak lukaia:** creer, tener fe[cite: 8]\n* **kristian sakaia (daukaia):** bautizar[cite: 8]\n* **latwan kaikaia:** amar, querer[cite: 8]\n* **padin munaia:** perdonar[cite: 8]\n* **(wan) saurka sakaia:** confesar(se)[cite: 8]\n* **swaki (wan) sakaia:** salvar(nos)[cite: 8]\n* **wan tibilka briaia:** comulgar[cite: 8]\n\n### Sustantivos y Conceptos Teológicos\n* **Dawan:** Señor (dueño)[cite: 8]\n* **Dawan Bîla:** la Palabra de Dios[cite: 8]\n* **Baibil:** Biblia[cite: 8]\n* **disaipil:** discípulo[cite: 8]\n* **dus prihni:** cruz, crucifijo[cite: 8]\n* **heven (heben):** cielo[cite: 8]\n* **lâ:** ley, costumbre, modo de actuar *(lâika, lâmka)*[cite: 8]\n* **prias watla:** iglesia, capilla, templo[cite: 8]\n* **raiti:** tumba, cementerio[cite: 8]\n* **Spirit Holikira:** Espíritu Santo[cite: 8]\n* **pana pana:** mutuamente[cite: 8]\n* **bani:** cada[cite: 8]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Man Dawan ra tawram.",
+      "respuesta_guia": "Usted se convirtió al Señor."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: Yang Dawan warkka daukisna.",
+      "respuesta_guia": "Yo hago la voluntad (obra) del Señor."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: Yang luhpi pat kristian sakri.",
+      "respuesta_guia": "Yo ya bauticé a mi hijo."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: ¿Man nani saurkam pat sakram ki?",
+      "respuesta_guia": "¿Ya se confesaron ustedes?"[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: Yang sandi bani tibilki brisna.",
+      "respuesta_guia": "Yo comulgo todos los domingos."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: Jisas upla sut ra latwan kaikisa.",
+      "respuesta_guia": "Jesús ama a todas las gentes."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca: Jisas ba raiti wina buan.",
+      "respuesta_guia": "Jesús resucitó de la tumba."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo te perdonarí / Yo te perdono.",
+      "respuesta_guia": "Yang man ra padin mai munisna."[cite: 8]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Quién es tu compadre?",
+      "respuesta_guia": "¿Ya ba man librahkam sa?"[cite: 6, 8]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Jesús murió en la cruz por nosotros.",
+      "respuesta_guia": "Jisas ba yawan dukiara dus prihni ra pruan."[cite: 8]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Yo fui salvado por Cristo ➔ Kraist mita swaki _______ sakankan.",
+      "respuesta_correcta": "ai"[cite: 8]
+    },
+    {
+      "oracion": "Usted será salvado por Cristo ➔ Kraist mita swaki _______ sakan kabia.",
+      "respuesta_correcta": "mai"[cite: 8]
+    },
+    {
+      "oracion": "Jesús resucitó de la tumba ➔ Jisas ba _______ wina buan.",
+      "respuesta_correcta": "raiti"[cite: 8]
+    },
+    {
+      "oracion": "Nosotros vamos a la iglesia ➔ Yawan _______ watla ra waia.",
+      "respuesta_correcta": "prias"[cite: 8]
+    },
+    {
+      "oracion": "Tener fe o creer en el Señor ➔ Dawan ra kasak _______.",
+      "respuesta_correcta": "lukaia"[cite: 8]
+    }
+  ]
+}

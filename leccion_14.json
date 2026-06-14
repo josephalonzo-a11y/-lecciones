@@ -1,0 +1,75 @@
+{
+  "numero": "14",
+  "titulo": "CAPÍTULO DÉCIMOCUARTO: EL CUERPO Y SUS ENFERMEDADES",
+  "explicacion": "## WAN WÎNA TARA (EL CUERPO Y LA SALUD)\n\nEsta lección introduce el léxico fundamental de la anatomía humana y los términos sintomáticos o patológicos comunes en el entorno cotidiano. Es crucial notar la flexión posesiva implícita en la raíz de muchos sustantivos anatómicos cuando se combinan con pronombres[cite: 9].\n\n---\n\n## I. VOCABULARIO\n\n### Partes del Cuerpo (Wan Wîna)\n* **lal:** cabeza[cite: 9]\n* **nana:** pescuezo, cuello[cite: 9]\n* **lamkuka:** pecho[cite: 9]\n* **kupia:** corazón[cite: 9]\n* **biara:** barriga, estómago[cite: 9]\n* **nina:** espalda[cite: 9]\n* **pahpaya:** hombro[cite: 9]\n* **klahkla:** brazo[cite: 9]\n* **tinhtingka:** codo[cite: 9]\n* **mihta:** mano *(mihta sirpika: dedo)*[cite: 9]\n* **kuhma:** muslo[cite: 9]\n* **lula:** rodilla[cite: 9]\n* **wayata:** pierna[cite: 9]\n* **limbungka:** tobillo[cite: 9]\n* **mina:** pie, pata[cite: 9]\n* **(t)naya mina:** costado[cite: 9]\n* **(t)nata:** nalga[cite: 9]\n* **dusa:** hueso[cite: 9]\n* **tala:** sangre[cite: 9]\n\n### Síntomas, Enfermedades y Verbos Médicos\n* **klauhaia:** doler[cite: 9]\n* **latwan:** dolor[cite: 9]\n* **rih(ka) daukaia:** tener calentura, fiebre[cite: 9]\n* **siahka:** catarro, tos[cite: 9]\n* **ikia:** chifladora, asma[cite: 9]\n* **bla:** mareo[cite: 9]\n* **biara plapaia:** tener diarrea *(literalmente: correr la barriga)*[cite: 9]\n* **tala sikniska:** diarrea de sangre / disentería[cite: 9]\n* **liwa:** lombrices, parásitos[cite: 9]\n* **aikabaia:** vomitar[cite: 9]\n* **lasa prukaia:** tener ataque, desmayarse[cite: 9]\n* **sukwaia:** pudrirse, infectarse[cite: 9]\n* **iska krahbaia:** orinar[cite: 9]\n* **kâna krahbaia:** defecar[cite: 9]\n* **rakaia:** curar[cite: 9]\n* **rawaia:** curarse[cite: 9]\n* **sîka:** medicina, remedio[cite: 9]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang biaira plapisa.",
+      "respuesta_guia": "Tengo diarrea."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Yang nani dusi klauhisa.",
+      "respuesta_guia": "Nos duele el hueso."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: ¿Ahkia wina rih mai daukisa?",
+      "respuesta_guia": "¿Desde cuándo tienes calentura?"[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Tala sikniska mai alkisa.",
+      "respuesta_guia": "Tienes diarrea de sangre (disentería)."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Yang mamiki siahka karna alkisa.",
+      "respuesta_guia": "Mi mamá está cogiendo una tos fuerte."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Tuktan sirpi ba aikaban.",
+      "respuesta_guia": "El niño pequeño vomitó."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Yang waiyata ra klakri, bara sukwan.",
+      "respuesta_guia": "Yo corté mi pierna y se infectó."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca: Yang iska sip pain krahbras.",
+      "respuesta_guia": "No puedo orinar bien."[cite: 9]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: El niño está vomitando en la iglesia.",
+      "respuesta_guia": "Tuktan ba prias watla ra aikabisa."[cite: 8, 9]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Mi pierna está quebrada.",
+      "respuesta_guia": "Yang waiyata ra kriwan sa."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Él tiene calentura.",
+      "respuesta_guia": "Witin ra rih daukisa."[cite: 9]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Tengo un fuerte dolor en mi estómago ➔ Yang _______ plapisa an klauhisa.",
+      "respuesta_correcta": "biaira"[cite: 9]
+    },
+    {
+      "oracion": "El hueso de mi brazo me duele mucho ➔ Yang klaihkla _______ klauhisa.",
+      "respuesta_correcta": "dusa"[cite: 9]
+    },
+    {
+      "oracion": "Si tomas agua sucia te darán lombrices ➔ Man lî saura disma kaka, _______ brima.",
+      "respuesta_correcta": "liwa"[cite: 9]
+    },
+    {
+      "oracion": "Fiebre o calentura corporal ➔ Yu yumhpa _______ dauki kan.",
+      "respuesta_correcta": "rih"[cite: 9]
+    },
+    {
+      "oracion": "Necesito medicina para curar la tos ➔ Siahka saura brisna ba mita _______ nitna sa.",
+      "respuesta_correcta": "sîka"[cite: 9]
+    }
+  ]
+}

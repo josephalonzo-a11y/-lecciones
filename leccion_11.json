@@ -1,0 +1,71 @@
+{
+  "numero": "11",
+  "titulo": "CAPÍTULO UNDÉCIMO: PARENTESCO",
+  "explicacion": "## I. ESQUEMA DE PARENTESCO\n\nEl sistema de parentesco en Miskito cuenta con términos específicos según el género de la persona que habla o de la línea familiar (paternal/maternal):\n\n* **dama:** abuelo, anciano, viejo\n* **kuka:** abuela, anciana, vieja, la hermana de la abuela\n* **rapia:** tío (hermano del padre), padrastro\n* **taihka:** tía (hermana del padre)[cite: 6]\n* **anti:** tía maternal (también se usa *yapti diura*)[cite: 6]\n* **tahti:** tío maternal (hermano de la madre)[cite: 6]\n* **muihni:** el hermano de un varón o la hermana de una mujer *(mismo sexo)*[cite: 6]\n* **lakra:** la hermana de un varón o el hermano de una mujer *(sexo opuesto)*[cite: 6]\n* **tubani:** el sobrino de un hombre (hijo de su hermana)[cite: 6]\n* **yamsi:** la sobrina (hija de la hermana de un varón)[cite: 6]\n* **luhpa waitna:** hijo (varón)[cite: 6]\n* **luhpa mairin:** hija (mujer)[cite: 6]\n* **mula:** nieto, nieta[cite: 6]\n* **dapna:** el yerno o el suegro[cite: 6]\n* **mula yapti:** nuera[cite: 6]\n* **waika:** cuñado (el hijo de la hermana del padre, o del hermano de la madre)[cite: 6]\n* **masaya:** la cuñada de una mujer[cite: 6]\n* **luhpiadiura (luhpia diura):** el hermano, la hermana[cite: 6]\n\n---\n\n## II. VOCABULARIO\n\n### Verbos\n* **aisubaia (aisubi takaia):** nacer[cite: 6]\n* **baikaia:** dar a luz, parir[cite: 6]\n* **kwihra kaia (takaia):** estar embarazada[cite: 6]\n* **luhpia (tuktan) alkaia:** ser padrino o madrina *(literalmente: agarrar niño)*[cite: 6]\n* **marit takaia:** casarse[cite: 6]\n* **pruaia:** morir, fallecer[cite: 6]\n* **tahbi daukaia (sakaia):** bautizar[cite: 6]\n* **unsabaia:** pelear, discutir[cite: 6]\n\n### Otros\n* **librah(ka):** compadre[cite: 6]\n* **sutki:** gemelos, mellizos[cite: 6]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang rapiki aisiki muihnika sa.",
+      "respuesta_guia": "Mi tío es el hermano de mi papá."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang muihki maisaya wal marit takan.",
+      "respuesta_guia": "Mi hermano se casó con mi cuñada."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang papiki damika pat pruan.",
+      "respuesta_guia": "El abuelo de mi papá ya murió."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang antiki luhpa wâl baikan.",
+      "respuesta_guia": "Mi tía maternal tuvo dos hijos."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang muli nani Waspam ra aisuban.",
+      "respuesta_guia": "Mis nietos nacieron en Waspam."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang tahtiki mamiki lakrika sa.",
+      "respuesta_guia": "Mi tío maternal es el hermano de mi mamá."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca: Yang tubani nani sutki sa.",
+      "respuesta_guia": "Mis sobrinos son gemelos."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Dónde vive su cuñado?",
+      "respuesta_guia": "¿Man waikam anira iwisa?"[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Mi abuelo murió ayer en la tarde.",
+      "respuesta_guia": "Yang damiki nahwala tutni pruan."[cite: 6]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Quién es tu compadre?",
+      "respuesta_guia": "¿Ya ba man librahkam sa?"[cite: 6]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Mi tío de línea paterna es hermano de mi papá ➔ Yang _______ aisiki muihnika sa.",
+      "respuesta_correcta": "rapiki"[cite: 6]
+    },
+    {
+      "oracion": "El hermano de mi mamá es mi tío maternal ➔ Yang _______ mamiki lakrika sa.",
+      "respuesta_correcta": "tahtiki"[cite: 6]
+    },
+    {
+      "oracion": "Mis sobrinos son gemelos ➔ Yang tubani nani _______ sa.",
+      "respuesta_correcta": "sutki"[cite: 6]
+    },
+    {
+      "oracion": "Mi suegro ya falleció ➔ Yang _______ pat pruan.",
+      "respuesta_correcta": "daipna"[cite: 6]
+    },
+    {
+      "oracion": "Antonio es mi compadre ➔ Antonio yang _______ sa.",
+      "respuesta_correcta": "librahki"[cite: 6]
+    }
+  ]
+}

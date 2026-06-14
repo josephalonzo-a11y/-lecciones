@@ -1,0 +1,71 @@
+{
+  "numero": "15",
+  "titulo": "CAPÍTULO DÉCIMOQUINTO: “WAN LAL” BA (LA CABEZA)",
+  "explicacion": "## WAN LAL (ANATOMÍA Y FUNCIONES DE LA CABEZA)\n\nEste capítulo profundiza en los términos específicos de las facciones del rostro, los órganos de los sentidos y verbos asociados a acciones cotidianas como peinarse, lavarse la cara o gesticular[cite: 10]. Al igual que en la lección anterior, presta atención a cómo cambia la raíz cuando se le añaden los sufijos posesivos afectivos (por ejemplo: *nakra* ➔ *naikra* / *namkra*)[cite: 10].\n\n---\n\n## I. VOCABULARIO\n\n### Órganos y Facciones del Rostro\n* **mawan:** cara, rostro *(maiwan, mamwan, ai mawanka)*[cite: 10]\n* **lalkamhka:** frente[cite: 10]\n* **nakra:** ojo[cite: 10]\n* **nakra taya:** pestaña[cite: 10]\n* **nakra tamaya:** cejas[cite: 10]\n* **nakra yula:** pupila[cite: 10]\n* **nakra laya:** lágrima[cite: 10]\n* **kakma:** nariz[cite: 10]\n* **kakmunta:** la ventana de la nariz[cite: 10]\n* **kiama:** oreja[cite: 10]\n* **kiama unta:** oído[cite: 10]\n* **bîla:** boca[cite: 10]\n* **un:** labio[cite: 10]\n* **unmaya:** bigote[cite: 10]\n* **twisa:** lengua[cite: 10]\n* **napa:** diente / muela[cite: 10]\n* **krusa:** quijada / mentón[cite: 10]\n* **krusa tamaya:** barba[cite: 10]\n* **kwakmaya:** mandíbula[cite: 10]\n* **lal mabiara:** cerebro, seso[cite: 10]\n* **tâwa:** pelo, cabello[cite: 10]\n\n### Verbos de Acción Facial\n* **daikaia:** arrancar, sacar (un diente)[cite: 10]\n* **kiawalaia:** besar, oler[cite: 10]\n* **pitbaia:** trenzar, plegar[cite: 10]\n* **puskaia:** hincharse, inflamarse[cite: 10]\n* **sikbaia:** lavar[cite: 10]\n* **(wan) tâwa aubaia:** peinarse[cite: 10]\n* **wasbaia:** chiflar, silbar[cite: 10]\n\n### Adjetivos y Estados\n* **tâski:** sucio[cite: 10]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang naipa puskisa.",
+      "respuesta_guia": "Mi muela está hinchada."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Yang pat maiwan sikbri.",
+      "respuesta_guia": "Ya me lavé la cara."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Yang luhpi ra kiawalri.",
+      "respuesta_guia": "Yo besé a mi hijo."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Mairin ba ai tâwa aubi pitban.",
+      "respuesta_guia": "La mujer se peinó y trenzó su cabello."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Man kiamma unta tâski sa.",
+      "respuesta_guia": "Tu oído está sucio."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Witin ai nakra yula siksa sa.",
+      "respuesta_guia": "Sus pupilas son negras."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca: Yang bîli ra twisi brisna.",
+      "respuesta_guia": "En mi boca tengo mi lengua."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Véte a lavar tu cara.",
+      "respuesta_guia": "Man mamwan sikbaia was."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: William cortó su barba negra.",
+      "respuesta_guia": "William ai krusa tamaya siksa ba klakan."[cite: 10]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Por qué no te peinas el pelo?",
+      "respuesta_guia": "¿Dîa kan man tâmwa aubras sma?"[cite: 10]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Ya me lavé la cara ➔ Yang _______ sikbri.",
+      "respuesta_correcta": "maiwan"[cite: 10]
+    },
+    {
+      "oracion": "Tu oído está muy sucio ➔ Man kiamma unta _______ sa.",
+      "respuesta_correcta": "tâski"[cite: 10]
+    },
+    {
+      "oracion": "El anciano tiene la barba blanca ➔ Dama ba krusa tamaya _______ brisa.",
+      "respuesta_correcta": "pihni"[cite: 10]
+    },
+    {
+      "oracion": "Estoy peinando mi cabello ➔ Yang tâiwa _______.",
+      "respuesta_correcta": "aubisna"[cite: 10]
+    },
+    {
+      "oracion": "Mi muela está inflamada ➔ Yang naipa _______.",
+      "respuesta_correcta": "puskisa"[cite: 10]
+    }
+  ]
+}

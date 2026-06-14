@@ -1,0 +1,71 @@
+{
+  "numero": "12",
+  "titulo": "CAPÍTULO DUODÉCIMO: COMIDAS Y COCINA",
+  "explicacion": "## I. GRAMÁTICA Y CONTEXTO CULTURAL\n\nEn esta lección nos enfocamos en las dinámicas de la cocina y la preparación de alimentos tradicionales en la Costa Caribe. Es importante notar el uso de dos conceptos clave:\n\n* **Tâma:** Se refiere al 'bastimento' o acompañamiento principal de las comidas (yuca, quequisque, banano, plátano).\n* **Wabul:** Una bebida/puré espeso tradicional muy importante, elaborado aquí a base de plátano o banano maduro mezclado con leche de vaca o leche de coco.\n\n---\n\n## II. VOCABULARIO\n\n### Verbos de Cocina\n* **kuk takaia:** cocinar\n* **piakaia:** cocer, hervir[cite: 7]\n* **puihkaia:** hervir (y lavar)[cite: 7]\n* **kiskaia:** freír[cite: 7]\n* **swakaia:** pelar (frutas o bastimentos)[cite: 7]\n* **irbaia:** cortar tajadas[cite: 7]\n* **tamaia:** cortar (específicamente carne)[cite: 7]\n* **wisbaia:** raspar (coco, yuca o quequisque)[cite: 7]\n\n### Bastimentos (Tâma) y Sustantivos\n* **yauhra:** yuca[cite: 7]\n* **duswa:** quequisque[cite: 7]\n* **usi:** ñame[cite: 7]\n* **tâwa:** batata / camote[cite: 7]\n* **platu:** plátano[cite: 7]\n* **siksa:** banano (o maduro/negro)[cite: 7]\n* **plas:** guineo cuadrado[cite: 7]\n* **upan:** carne, pescado o acompañamiento proteico[cite: 7]\n* **batana (lat):** manteca, aceite[cite: 7]\n* **tats:** almidón[cite: 7]\n* **sâl:** sal[cite: 7]\n* **sugar (sukar):** azúcar[cite: 7]\n\n### Frutas y Bebidas\n* **kûku:** coco[cite: 7]\n* **pihtu:** piña[cite: 7]\n* **mangu:** mango[cite: 7]\n* **laimus:** limón[cite: 7]\n* **sikia:** aguacate[cite: 7]\n* **kuri:** zapote[cite: 7]\n* **kâpi:** café[cite: 7]\n* **kik:** queque / pastel[cite: 7]\n* **bîp tialka laya:** leche de vaca[cite: 7]\n* **prisku laya / priskuka laya:** fresco / refresco natural[cite: 7]\n\n### Preguntas Útiles\n* **¿Dîa sat?:** ¿Qué clase? / ¿Qué tipo?[cite: 7]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: ¿Dîa sat tâmka piakisma?",
+      "respuesta_guia": "¿Qué clase de bastimento estás cocinando?"[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: ¿Inska kiskan ba pin mai daukisa?",
+      "respuesta_guia": "¿Le gusta a usted comer pescado frito?"[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: ¿Dîa sat priskuka laya din mai daukisa?",
+      "respuesta_guia": "¿Qué clase de fresco deseas tomar?"[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: Tuktan nani ba kûku swakan.",
+      "respuesta_guia": "Los niños pelaron el coco."[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: Mairin ba duswa wisbi, kik kum daukan.",
+      "respuesta_guia": "Raspando el quequisque, la mujer hizo un queque."[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: Kûku wisbi, laya ba piaki, batanka sakisa.",
+      "respuesta_guia": "Raspando el coco y hirviendo su agua, saca su aceite (manteca)."[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca: Mangu wabulka diri; damni sa.",
+      "respuesta_guia": "Tomando el wabul de mango; es dulce."[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Puede usted pelar un coco?",
+      "respuesta_guia": "¿Man kûku swakaia sip sma?"[cite: 6, 7]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: La mujer estaba raspando el coco.",
+      "respuesta_guia": "Mairin ba kûku wisbi kan."[cite: 7]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo hice un queque de yuca.",
+      "respuesta_guia": "Yang yauhra wisbi, kik kum daukri."[cite: 7]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "El pescado frito es delicioso ➔ Inska _______ ba pin ai daukisa.",
+      "respuesta_correcta": "kiskan"[cite: 7]
+    },
+    {
+      "oracion": "Los niños pelaron el mango ➔ Tuktan nani ba mangu _______.",
+      "respuesta_correcta": "swakan"[cite: 7]
+    },
+    {
+      "oracion": "Ella cocina yuca y quequisque ➔ Witin yauhra an duswa _______.",
+      "respuesta_correcta": "piakisa"[cite: 7]
+    },
+    {
+      "oracion": "La mujer raspa el coco ➔ Mairin ba kûku _______.",
+      "respuesta_correcta": "wisbisa"[cite: 7]
+    },
+    {
+      "oracion": "Me gusta tomar refresco de piña ➔ Pihtu priskuka laya _______ ai daukisa.",
+      "respuesta_correcta": "din"[cite: 7]
+    }
+  ]
+}

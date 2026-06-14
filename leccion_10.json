@@ -1,0 +1,71 @@
+{
+  "numero": "10",
+  "titulo": "CAPÍTULO DÉCIMO: MÁS CONJUNCIONES Y \"YAWAN\"",
+  "explicacion": "## I. GRAMÁTICA\n\n### 1. Conjunciones Iniciales\nA diferencia de las conjunciones finales que se colocan al final, en Miskito también existen conjunciones iniciales que abren o introducen una frase, como **bamna** o **baha mita** cuando significan *\"por eso\"* o *\"por lo tanto\"*[cite: 5].\n\n* **Yang Miskitu bîla walras, bamna man waitna wala ba wal aisas.** ➔ Yo no entiendo el Miskito, por eso hable usted con el otro hombre[cite: 5].\n\n### 2. La Conjunción Final \"Sapa\" (Duda)\nLa palabra **sapa** se ubica al final de la oración para indicar duda o incertidumbre (*\"si... o no\"*)[cite: 5].\n\n* **Yang nu âpu witin balbia sapa.** ➔ Yo no sé si él vendrá o no[cite: 5].\n\n### 3. Diferencia entre \"Yang nani\" y \"Yawan\"\nAmbas significan *\"nosotros\"*, pero se usan en contextos inclusivos distintos[cite: 5]:\n* **Yang nani:** Es exclusivo. Se refiere solo a los que hablan, excluyendo al oyente[cite: 5]. *(Ejemplo: Nosotros fuimos a Bilwi, ustedes no)*[cite: 5].\n* **Yawan:** Es inclusivo. Incluye obligatoriamente a los oyentes[cite: 5].\n  * **Yawan Miskitu bîla stadi munisa.** ➔ Nosotros (todos nosotros) estamos estudiando el Miskito[cite: 5].\n  * **Forma de Objeto:** Para decir *\"a nosotros/nos\"* se emplea **yawan ra** o **wan**[cite: 5]. *(Ejemplo: Witin yawan ra bîp kum wankan = Él nos dio una vaca)*[cite: 5].\n\n### 4. El Enfatizador del Sujeto \"Bui\"\nCuando una oración contiene dos o tres sustantivos y es difícil identificar el sujeto ejecutor, se añade la partícula **bui** inmediatamente después del sujeto para darle todo el énfasis[cite: 5].\n\n* **Waitna ba bui yul ba yabal ra prukan.** ➔ El hombre (y no otro) golpeó al perro en el camino[cite: 5].\n\n---\n\n## II. VOCABULARIO\n\n### Verbos\n* **aisubi takaia:** nacer[cite: 5]\n* **luaia:** pasar, atravesar[cite: 5]\n* **marit takaia:** casarse[cite: 5]\n* **piakaia:** hervir, cocer[cite: 5]\n* **nu kaia (takaia):** saber, conocer[cite: 5]\n* **pruaia:** morir, fallecer[cite: 5]\n* **smalkaia:** enseñar, instruir[cite: 5]\n* **tahbaia:** bañar[cite: 5]\n* **tahbi daukaia:** bautizar[cite: 5]\n* **wankaia:** darnos[cite: 5]\n\n### Sustantivos de Familia y Otros\n* **aisa:** papá, padre *(aisiki, aisikam, ai aisika)*[cite: 5]\n* **yapti:** madre, mamá *(yaptiki, yaptikam, ai yaptika)*[cite: 5]\n* **dama:** abuelo, viejo *(damiki, damikam, ai damika)*[cite: 5]\n* **mula:** nieto(a) *(muli, mulam, ai mula)*[cite: 5]\n* **lakra:** hermano(a) *(del sexo opuesto al que habla: laikra, lamkra)*[cite: 5]\n* **muihni:** hermano(a) *(del mismo sexo del que habla: muihki, muihkam)*[cite: 5]\n* **taya:** familia, piel *(taiya, tamya, ai taya)*[cite: 5]\n* **marit:** esposo, esposa, casado(a)[cite: 5]\n* **nina:** nombre *(nini, ninam, ai nina)*[cite: 5]\n* **mani:** año, verano[cite: 5]\n* **kli:** otra vez, de nuevo[cite: 5]\n* **kau:** más[cite: 5]\n* **bamna / baha mita:** por eso, por lo tanto[cite: 5]",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang yaptiki nahwala Bilwi ra wan.",
+      "respuesta_guia": "Mi madre fue a Bilwi ayer."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca: Yang aisubi takri taim, damiki mani ailal bri kan.",
+      "respuesta_guia": "Cuando yo nací, mi abuelo tenía muchos años de edad."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca: Yang muihki Saupuka ra aisubi takan.",
+      "respuesta_guia": "Mi hermano nació en Saupuka."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca: Yang nini Ismael sa.",
+      "respuesta_guia": "Yo me llamo Ismael."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca: José yawan ra aras kum wankan, bamna yawan bui witin ra duri kum dauki yabia.",
+      "respuesta_guia": "José nos dio un caballo, por eso vamos a hacer y regalarle un pipante."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: ¿Cómo se llama tu abuelo?",
+      "respuesta_guia": "¿Man damikam nina dîa?"[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Mi madre fue a Bilwi ayer.",
+      "respuesta_guia": "Yang yaptiki nahwala Bilwi ra wan."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Tu padre vive ahora en Bul Kiamp.",
+      "respuesta_guia": "Man aisikam naha mita Bul Kiamp ra iwisa."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Enséñame a coser ropa.",
+      "respuesta_guia": "Yang ra kwala sipaia ai smalks."[cite: 5]
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo tengo una familia grande.",
+      "respuesta_guia": "Yang taiya tara kum brisna."[cite: 5]
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Yo no sé si él vendrá o no ➔ Yang nu âpu witin balbia _______.",
+      "respuesta_correcta": "sapa"[cite: 5]
+    },
+    {
+      "oracion": "El hombre golpeó al perro (con énfasis) ➔ Waitna ba _______ yul ba yabal ra prukan.",
+      "respuesta_correcta": "bui"[cite: 5]
+    },
+    {
+      "oracion": "Nosotros (incluyendo al oyente) estudiamos ➔ _______ Miskitu bîla stadi munisa.",
+      "respuesta_correcta": "Yawan"[cite: 5]
+    },
+    {
+      "oracion": "Él nos dio un caballo ➔ Witin _______ ra aras kum wankan.",
+      "respuesta_correcta": "yawan"[cite: 5]
+    },
+    {
+      "oracion": "Mi abuelo murió ayer ➔ Yang _______ nahwala pruan.",
+      "respuesta_correcta": "damiki"[cite: 5]
+    }
+  ]
+}
