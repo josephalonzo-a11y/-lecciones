@@ -6,66 +6,66 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: Yang yaptiki nahwala Bilwi ra wan.",
-      "respuesta_guia": "Mi madre fue a Bilwi ayer."[cite: 5]
+      "respuesta_guia": "Mi madre fue a Bilwi ayer."
     },
     {
       "pregunta": "Traduzca: Yang aisubi takri taim, damiki mani ailal bri kan.",
-      "respuesta_guia": "Cuando yo nací, mi abuelo tenía muchos años de edad."[cite: 5]
+      "respuesta_guia": "Cuando yo nací, mi abuelo tenía muchos años de edad."
     },
     {
       "pregunta": "Traduzca: Yang muihki Saupuka ra aisubi takan.",
-      "respuesta_guia": "Mi hermano nació en Saupuka."[cite: 5]
+      "respuesta_guia": "Mi hermano nació en Saupuka."
     },
     {
       "pregunta": "Traduzca: Yang nini Ismael sa.",
-      "respuesta_guia": "Yo me llamo Ismael."[cite: 5]
+      "respuesta_guia": "Yo me llamo Ismael."
     },
     {
       "pregunta": "Traduzca: José yawan ra aras kum wankan, bamna yawan bui witin ra duri kum dauki yabia.",
-      "respuesta_guia": "José nos dio un caballo, por eso vamos a hacer y regalarle un pipante."[cite: 5]
+      "respuesta_guia": "José nos dio un caballo, por eso vamos a hacer y regalarle un pipante."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Cómo se llama tu abuelo?",
-      "respuesta_guia": "¿Man damikam nina dîa?"[cite: 5]
+      "respuesta_guia": "¿Man damikam nina dîa?"
     },
     {
       "pregunta": "Traduzca al Miskito: Mi madre fue a Bilwi ayer.",
-      "respuesta_guia": "Yang yaptiki nahwala Bilwi ra wan."[cite: 5]
+      "respuesta_guia": "Yang yaptiki nahwala Bilwi ra wan."
     },
     {
       "pregunta": "Traduzca al Miskito: Tu padre vive ahora en Bul Kiamp.",
-      "respuesta_guia": "Man aisikam naha mita Bul Kiamp ra iwisa."[cite: 5]
+      "respuesta_guia": "Man aisikam naha mita Bul Kiamp ra iwisa."
     },
     {
       "pregunta": "Traduzca al Miskito: Enséñame a coser ropa.",
-      "respuesta_guia": "Yang ra kwala sipaia ai smalks."[cite: 5]
+      "respuesta_guia": "Yang ra kwala sipaia ai smalks."
     },
     {
       "pregunta": "Traduzca al Miskito: Yo tengo una familia grande.",
-      "respuesta_guia": "Yang taiya tara kum brisna."[cite: 5]
+      "respuesta_guia": "Yang taiya tara kum brisna."
     }
   ],
   
   "completaciones": [
     {
       "oracion": "Yo no sé si él vendrá o no ➔ Yang nu âpu witin balbia _______.",
-      "respuesta_correcta": "sapa"[cite: 5]
+      "respuesta_correcta": "sapa"
     },
     {
       "oracion": "El hombre golpeó al perro (con énfasis) ➔ Waitna ba _______ yul ba yabal ra prukan.",
-      "respuesta_correcta": "bui"[cite: 5]
+      "respuesta_correcta": "bui"
     },
     {
       "oracion": "Nosotros (incluyendo al oyente) estudiamos ➔ _______ Miskitu bîla stadi munisa.",
-      "respuesta_correcta": "Yawan"[cite: 5]
+      "respuesta_correcta": "Yawan"
     },
     {
       "oracion": "Él nos dio un caballo ➔ Witin _______ ra aras kum wankan.",
-      "respuesta_correcta": "yawan"[cite: 5]
+      "respuesta_correcta": "yawan"
     },
     {
       "oracion": "Mi abuelo murió ayer ➔ Yang _______ nahwala pruan.",
-      "respuesta_correcta": "damiki"[cite: 5]
+      "respuesta_correcta": "damiki"
     }
   ]
 }
