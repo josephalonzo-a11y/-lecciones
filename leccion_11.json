@@ -6,66 +6,66 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: Yang rapiki aisiki muihnika sa.",
-      "respuesta_guia": "Mi tío es el hermano de mi papá."[cite: 6]
+      "respuesta_guia": "Mi tío es el hermano de mi papá."
     },
     {
       "pregunta": "Traduzca: Yang muihki maisaya wal marit takan.",
-      "respuesta_guia": "Mi hermano se casó con mi cuñada."[cite: 6]
+      "respuesta_guia": "Mi hermano se casó con mi cuñada."
     },
     {
       "pregunta": "Traduzca: Yang papiki damika pat pruan.",
-      "respuesta_guia": "El abuelo de mi papá ya murió."[cite: 6]
+      "respuesta_guia": "El abuelo de mi papá ya murió."
     },
     {
       "pregunta": "Traduzca: Yang antiki luhpa wâl baikan.",
-      "respuesta_guia": "Mi tía maternal tuvo dos hijos."[cite: 6]
+      "respuesta_guia": "Mi tía maternal tuvo dos hijos."
     },
     {
       "pregunta": "Traduzca: Yang muli nani Waspam ra aisuban.",
-      "respuesta_guia": "Mis nietos nacieron en Waspam."[cite: 6]
+      "respuesta_guia": "Mis nietos nacieron en Waspam."
     },
     {
       "pregunta": "Traduzca: Yang tahtiki mamiki lakrika sa.",
-      "respuesta_guia": "Mi tío maternal es el hermano de mi mamá."[cite: 6]
+      "respuesta_guia": "Mi tío maternal es el hermano de mi mamá."
     },
     {
       "pregunta": "Traduzca: Yang tubani nani sutki sa.",
-      "respuesta_guia": "Mis sobrinos son gemelos."[cite: 6]
+      "respuesta_guia": "Mis sobrinos son gemelos."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Dónde vive su cuñado?",
-      "respuesta_guia": "¿Man waikam anira iwisa?"[cite: 6]
+      "respuesta_guia": "¿Man waikam anira iwisa?"
     },
     {
       "pregunta": "Traduzca al Miskito: Mi abuelo murió ayer en la tarde.",
-      "respuesta_guia": "Yang damiki nahwala tutni pruan."[cite: 6]
+      "respuesta_guia": "Yang damiki nahwala tutni pruan."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Quién es tu compadre?",
-      "respuesta_guia": "¿Ya ba man librahkam sa?"[cite: 6]
+      "respuesta_guia": "¿Ya ba man librahkam sa?"
     }
   ],
   
   "completaciones": [
     {
       "oracion": "Mi tío de línea paterna es hermano de mi papá ➔ Yang _______ aisiki muihnika sa.",
-      "respuesta_correcta": "rapiki"[cite: 6]
+      "respuesta_correcta": "rapiki"
     },
     {
       "oracion": "El hermano de mi mamá es mi tío maternal ➔ Yang _______ mamiki lakrika sa.",
-      "respuesta_correcta": "tahtiki"[cite: 6]
+      "respuesta_correcta": "tahtiki"
     },
     {
       "oracion": "Mis sobrinos son gemelos ➔ Yang tubani nani _______ sa.",
-      "respuesta_correcta": "sutki"[cite: 6]
+      "respuesta_correcta": "sutki"
     },
     {
       "oracion": "Mi suegro ya falleció ➔ Yang _______ pat pruan.",
-      "respuesta_correcta": "daipna"[cite: 6]
+      "respuesta_correcta": "daipna"
     },
     {
       "oracion": "Antonio es mi compadre ➔ Antonio yang _______ sa.",
-      "respuesta_correcta": "librahki"[cite: 6]
+      "respuesta_correcta": "librahki"
     }
   ]
 }
