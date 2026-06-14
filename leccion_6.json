@@ -1,0 +1,71 @@
+{
+  "numero": "6",
+  "titulo": "CAPÍTULO SEXTO: LOS PARTICIPIOS",
+  "explicacion": "## I. GRAMÁTICA\n\n### 1. El Participio Presente\nEs un adjetivo verbal muy utilizado. En Miskito se forma añadiendo **i** a la raíz del verbo.\n\n* **kaiki** ➔ viendo\n* **puli** ➔ jugando\n\n### 2. Acción Continua\nPara expresar una acción que continúa ocurriendo, se acompaña el participio presente con las formas del verbo *kaia* (ser/estar).\n\n* **Yang kaiki kapri.** ➔ Yo estaba viendo.\n* **Man kaiki kama.** ➔ Tú estarás viendo.\n* **Upla manis kiki kan.** ➔ Mucha gente se estaba riendo.\n\n### 3. Acción Terminada\nPara indicar una acción finalizada antes del verbo principal, se añade la partícula **si** al participio.\n\n* **Kaiki si, mahka wan.** ➔ Habiendo visto, se fue.\n\n---\n\n## II. VOCABULARIO\n\n### Verbos\n* **aiwanaia:** cantar\n* **banhwaia:** estar lleno, llenarse\n* **dabaia:** chupar\n* **kikaia:** reírse\n* **laikaia:** echar líquido\n* **lâkaia:** secar\n* **pamaia:** colgar\n* **pulaia:** jugar\n* **sakaia:** sacar\n* **tuskaia:** lavar ropa\n\n### Otros\n* **ailal:** mucho, muchos\n* **andris:** naranja\n* **bukit:** balde\n* **kayu:** caña\n* **kwala:** ropa, tela\n* **lawana:** canción, canto, himno\n* **nanara:** ahora\n* **upla:** persona, gente\n* **wiria (rîa):** poco",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang bukit wal lî saki balri.",
+      "respuesta_guia": "Yo vine sacando agua con el balde."
+    },
+    {
+      "pregunta": "Traduzca: Upla manis kiki kan.",
+      "respuesta_guia": "Mucha gente se estaba riendo."
+    },
+    {
+      "pregunta": "Traduzca: Man nani kayu ailal dabi kapram.",
+      "respuesta_guia": "Ustedes estaban chupando mucha caña."
+    },
+    {
+      "pregunta": "Traduzca: Tuktan wiria lawana aiwani kan.",
+      "respuesta_guia": "El niño cantaba un poco la canción."
+    },
+    {
+      "pregunta": "Traduzca: Yang utla ra kwala ba pami swiri.",
+      "respuesta_guia": "Yo dejé colgada la ropa en la casa."
+    },
+    {
+      "pregunta": "Traduzca: Man kwala lî wina saki kapram.",
+      "respuesta_guia": "Usted estaba sacando la ropa del agua."
+    },
+    {
+      "pregunta": "Traduzca: Man aras ba alki nâra balram.",
+      "respuesta_guia": "Usted vino aquí agarrando el caballo."
+    },
+    {
+      "pregunta": "Traduzca: Witin baks ba twilki Bilwi ra balan.",
+      "respuesta_guia": "Él vino a Bilwi cargando la caja."
+    },
+    {
+      "pregunta": "Traduzca: Yang krikri ra yapi kapri.",
+      "respuesta_guia": "Yo estaba durmiendo en la cama."
+    },
+    {
+      "pregunta": "Traduzca: Witin siksa ba buki truk ra mangkan.",
+      "respuesta_guia": "Él levantó el banano y lo puso en el camión."
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Estése usted riéndose ➔ Kiki ___.",
+      "respuesta_correcta": "bas"
+    },
+    {
+      "oracion": "Siéntense (en plural) ➔ Iwi ___.",
+      "respuesta_correcta": "banhs"
+    },
+    {
+      "oracion": "Venga acá corriendo ➔ Nâra plapi ___.",
+      "respuesta_correcta": "bal"
+    },
+    {
+      "oracion": "Yang nani kayu dabi skul ra wari. ➔ Yang nani andris dabi utla ra ___ (vinimos).",
+      "respuesta_correcta": "balri"
+    },
+    {
+      "oracion": "Habiendo lavado la ropa, sécala en la casa ➔ Kwala ba tuski ___, lâks.",
+      "respuesta_correcta": "si"
+    }
+  ]
+}

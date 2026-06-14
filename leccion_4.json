@@ -1,0 +1,71 @@
+{
+  "numero": "4",
+  "titulo": "CAPÍTULO CUARTO: LAS POSPOSICIONES",
+  "explicacion": "## I. GRAMÁTICA\n\n### 1. Las Posposiciones\nEn Español tenemos preposiciones que indican dirección, posición, etc. *(Ejemplo: en, hacia, de, dentro)*. En Miskito, en vez de ir delante del sustantivo o adjetivo, van **después**. Por eso se llaman posposiciones.\n\n* **Yang nani man wal wari.** ➔ Nosotros fuimos con usted.\n\n### 2. Orden en la oración\nSi en la oración o frase hay adjetivos o artículos, las posposiciones siempre siguen a éstos.\n\n* **Yang waitna ba wal wari.** ➔ Yo fui con el hombre.\n* **Yang waitna tara nani wal wari.** ➔ Yo fui con los hombres grandes.\n* **Yang waitna kum wal wari.** ➔ Yo fui con un hombre.\n\n---\n\n## II. VOCABULARIO\n\n### Posposiciones\n* **âpu:** sin, no hay\n* **bilara:** adentro, dentro\n* **lamara:** cerca, al lado\n* **latara:** afuera, fuera\n* **mawanra:** enfrente, frente\n* **munhtara:** debajo, abajo, bajo\n* **ninara:** atrás, tras, detrás\n* **purara:** encima, sobre\n* **wal:** con\n* **k(u):** por medio de *(modo de viajar)*\n\n> **NOTA SOBRE k(u):** Cuando el sustantivo termina en vocal, sólo se añade la letra **k** para indicar \"por medio de...\".\n\n### Otros\n* **blikaia:** mandar, enviar\n* **mangkaia:** poner, sembrar\n* **sunaia:** levantar, poner arriba\n* **swiaia:** dejar\n* **takaia:** salir\n* **ulaia:** subir, trepar\n* **duri:** pipante, cayuco\n* **pinsil:** lápiz\n* **tibil:** mesa\n* **truk:** carro, camión",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca al Español: Yang Bilwi ra yabalku wari.",
+      "respuesta_guia": "Yo fui a Bilwi por el camino."
+    },
+    {
+      "pregunta": "Traduzca al Español: Witin bins siksa ba insla tara ra mangkan.",
+      "respuesta_guia": "Él sembró los frijoles negros en la finca grande."
+    },
+    {
+      "pregunta": "Traduzca al Español: Man rais ba utla purara sunram.",
+      "respuesta_guia": "Usted subió el arroz arriba de la casa."
+    },
+    {
+      "pregunta": "Traduzca al Español: Man utla latara plun piram.",
+      "respuesta_guia": "Usted comió comida afuera de la casa."
+    },
+    {
+      "pregunta": "Traduzca al Español: Yang nani tuktan ba utla munhtara blikri.",
+      "respuesta_guia": "Nosotros enviamos al niño debajo de la casa."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo dejé el perro afuera de la casa.",
+      "respuesta_guia": "Yang yul ba utla latara swiri."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Usted envió el niño a la escuela.",
+      "respuesta_guia": "Man tuktan ba skul ra blikram."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: El hombre blanco salió de la finca por carro.",
+      "respuesta_guia": "Waitna pihni ba insla wina trukku takan."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Usted vio el lápiz encima de la mesa.",
+      "respuesta_guia": "Man pinsil ba tibil purara kaikram."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo vine a Puerto Cabezas por cayuco.",
+      "respuesta_guia": "Yang Bilwi ra durik balri."
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Usted estuvo enfrente de la casa ➔ Man utla _______ kapram.",
+      "respuesta_correcta": "mawanra"
+    },
+    {
+      "oracion": "El chancho está dentro de la casa ➔ Kwirku ba utla _______ sa.",
+      "respuesta_correcta": "bilara"
+    },
+    {
+      "oracion": "Nosotros enviamos al niño SIN el perro ➔ Yang nani tuktan ba yul _______ blikri.",
+      "respuesta_correcta": "âpu"
+    },
+    {
+      "oracion": "Ustedes vinieron a Bilwi por bote (duri) ➔ Man nani Bilwi ra _______ balram.",
+      "respuesta_correcta": "durik"
+    },
+    {
+      "oracion": "Yo dejé el lápiz EN (sobre) la mesa ➔ Yang tibil _______ pinsil ba swiri.",
+      "respuesta_correcta": "purara"
+    }
+  ]
+}

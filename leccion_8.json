@@ -1,0 +1,71 @@
+{
+  "numero": "7",
+  "titulo": "CAPÍTULO OCTAVO: EL TIEMPO FUTURO Y OBLIGACIÓN",
+  "explicacion": "## I. GRAMÁTICA\n\n### 1. El Tiempo Futuro (Indefinido)\nExpresa la intención de realizar una acción más adelante. Se forma añadiendo las siguientes terminaciones a la raíz del verbo:\n\n* **Raíz + amna** (Yo) ➔ *kaikamna* (veré) | *wimna* (diré) | *kamna* (estaré)\n* **Raíz + ma** (Tú) ➔ *kaikma* (verás) | *wima* (dirás) | *kama* (estarás)\n* **Raíz + bia** (Él/Ella) ➔ *kaikbia* (verá) | *wibia* (dirá) | *kabia* (estará)\n\n> 🚫 **Futuro Negativo:** Se forma simplemente colocando la palabra **apia** después de la forma futura. \n> * *Witin ra wimna apia.* ➔ No le avisaré/diré a él.\n\n### 2. El Futuro Absoluto\nSe utiliza para una certeza total o acciones definitivas en el futuro:\n* **Raíz + aisna** (Yo) ➔ *kaikaisna* | *wiaisna* | *kaisna*\n* **Raíz + aisma** (Tú) ➔ *kaikaisma* | *wiaisma* | *kaisma*\n* **Raíz + aisa** (Él/Ella) ➔ *kaikaisa* | *wiaisa* | *kaisa*\n\n### 3. Cómo Expresar Obligación (\"Tener que\")\nEn Miskito se expresa usando el verbo principal en **Infinitivo (-aia)** seguido por las formas correspondientes del verbo *kaia* (ser/estar):\n\n* **Man walaia sma.** ➔ Usted tiene que escuchar (debe escuchar).\n* **Man walaia kama.** ➔ Usted tendrá que escuchar.\n* **Man walaia kapram.** ➔ Usted tuvo que escuchar.\n\n### 4. Pronombres de Objeto (Formas Objetivas)\nCuando la persona recibe la acción del verbo (*me ve, te veo, le veo*), los pronombres cambian su estructura en la oración utilizando la partícula **ra** y prefijos verbales (*ai* / *mai*):\n\n* **Witin yang ra ai kaikan.** ➔ Él me vio a mí.\n* **Yang man ra mai kaikamna.** ➔ Yo te veré a ti.\n* **Yang witin ra kaikisna.** ➔ Yo le veo a él.\n* **Witin yang nani ra ai kaikisa.** ➔ Él nos ve a nosotros.\n* **Witin man nani ra mai kaikbia.** ➔ Él los verá a ustedes.\n\n---\n\n## II. VOCABULARIO\n\n### Verbos\n* **aikaia:** darme\n* **atkaia:** vender / comprar\n* **briaia:** tener\n* **dingkaia:** meter, introducir\n* **maikaia:** darte\n* **munaia:** hacer, tratar\n* **sip kaia:** poder\n* **walaia:** escuchar, obedecer\n* **wilkaia:** amarrar, atar\n* **yaia / yabaia:** darle (a él o ella)\n\n### Otros\n* **bamna:** porque *(conjunción que se usa siempre al final de la frase)*\n* **bîla:** boca, palabra (bîli, bîlam, bîla)\n* **luhpa:** hijo / hija (luhpi, luhpam, luhpa)\n* **nahwala:** ayer\n* **naiwa:** hoy\n* **yauhka:** mañana\n* **sakuna (kuna):** pero, sin embargo\n* **sturi / turi:** historia, relato, cuento\n* **tihmia:** noche\n* **titan:** la mañana\n* **tutni:** la tarde",
+  
+  "preguntas_interactivas": [
+    {
+      "pregunta": "Traduzca: Yang yauhka man ra mai kaikamna.",
+      "respuesta_guia": "Yo te veré mañana."
+    },
+    {
+      "pregunta": "Traduzca: Witin naha tihmia ra skul ra balbia.",
+      "respuesta_guia": "Él vendrá a la escuela esta noche."
+    },
+    {
+      "pregunta": "Traduzca: Yang man bîlam pain walamna.",
+      "respuesta_guia": "Yo escucharé bien tu palabra (Te obedeceré)."
+    },
+    {
+      "pregunta": "Traduzca: Yang man patam tibil purara swimna.",
+      "respuesta_guia": "Yo dejaré tu comida sobre la mesa."
+    },
+    {
+      "pregunta": "Traduzca: ¿Man nahwala titan anira kapram?",
+      "respuesta_guia": "¿Dónde estuviste ayer por la mañana?"
+    },
+    {
+      "pregunta": "Traduzca: Yang Bilwi ra durik wamna.",
+      "respuesta_guia": "Yo iré a Bilwi por pipante (bote)."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo le diré que tengo muchas naranjas en mi finca.",
+      "respuesta_guia": "Yang witin ra wimna yang naisla ra andris ailal brisna."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: El niño no puede levantar esta caja.",
+      "respuesta_guia": "Tuktan ba naha bakska sip sunaia sauras."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Yo haré la cama esta tarde.",
+      "respuesta_guia": "Yang naha tutni krikri ba munamna."
+    },
+    {
+      "pregunta": "Traduzca al Miskito: Mañana voy a tener que ir a Managua por carro.",
+      "respuesta_guia": "Yauhka yang Managua ra trukku waia sna."
+    }
+  ],
+  
+  "completaciones": [
+    {
+      "oracion": "Yo no puedo ir ➔ Yang sip _______ (ir en negativo).",
+      "respuesta_correcta": "waras"
+    },
+    {
+      "oracion": "Tú tienes que escuchar ➔ Man walaia _______.",
+      "respuesta_correcta": "sma"
+    },
+    {
+      "oracion": "No puedo ir porque tengo que ir a mi finca ➔ Yang naisla waia sna _______.",
+      "respuesta_correcta": "bamna"
+    },
+    {
+      "oracion": "Él me verá a mí en el futuro ➔ Witin yang ra _______ kaikbia.",
+      "respuesta_correcta": "ai"
+    },
+    {
+      "oracion": "Yo te veré a ti mañana ➔ Yang yauhka man ra _______ kaikamna.",
+      "respuesta_correcta": "mai"
+    }
+  ]
+}
