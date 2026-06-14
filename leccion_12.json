@@ -6,66 +6,66 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: ¿Dîa sat tâmka piakisma?",
-      "respuesta_guia": "¿Qué clase de bastimento estás cocinando?"[cite: 7]
+      "respuesta_guia": "¿Qué clase de bastimento estás cocinando?"
     },
     {
       "pregunta": "Traduzca: ¿Inska kiskan ba pin mai daukisa?",
-      "respuesta_guia": "¿Le gusta a usted comer pescado frito?"[cite: 7]
+      "respuesta_guia": "¿Le gusta a usted comer pescado frito?"
     },
     {
       "pregunta": "Traduzca: ¿Dîa sat priskuka laya din mai daukisa?",
-      "respuesta_guia": "¿Qué clase de fresco deseas tomar?"[cite: 7]
+      "respuesta_guia": "¿Qué clase de fresco deseas tomar?"
     },
     {
       "pregunta": "Traduzca: Tuktan nani ba kûku swakan.",
-      "respuesta_guia": "Los niños pelaron el coco."[cite: 7]
+      "respuesta_guia": "Los niños pelaron el coco."
     },
     {
       "pregunta": "Traduzca: Mairin ba duswa wisbi, kik kum daukan.",
-      "respuesta_guia": "Raspando el quequisque, la mujer hizo un queque."[cite: 7]
+      "respuesta_guia": "Raspando el quequisque, la mujer hizo un queque."
     },
     {
       "pregunta": "Traduzca: Kûku wisbi, laya ba piaki, batanka sakisa.",
-      "respuesta_guia": "Raspando el coco y hirviendo su agua, saca su aceite (manteca)."[cite: 7]
+      "respuesta_guia": "Raspando el coco y hirviendo su agua, saca su aceite (manteca)."
     },
     {
       "pregunta": "Traduzca: Mangu wabulka diri; damni sa.",
-      "respuesta_guia": "Tomando el wabul de mango; es dulce."[cite: 7]
+      "respuesta_guia": "Tomando el wabul de mango; es dulce."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Puede usted pelar un coco?",
-      "respuesta_guia": "¿Man kûku swakaia sip sma?"[cite: 6, 7]
+      "respuesta_guia": "¿Man kûku swakaia sip sma?"
     },
     {
       "pregunta": "Traduzca al Miskito: La mujer estaba raspando el coco.",
-      "respuesta_guia": "Mairin ba kûku wisbi kan."[cite: 7]
+      "respuesta_guia": "Mairin ba kûku wisbi kan."
     },
     {
       "pregunta": "Traduzca al Miskito: Yo hice un queque de yuca.",
-      "respuesta_guia": "Yang yauhra wisbi, kik kum daukri."[cite: 7]
+      "respuesta_guia": "Yang yauhra wisbi, kik kum daukri."
     }
   ],
   
   "completaciones": [
     {
       "oracion": "El pescado frito es delicioso ➔ Inska _______ ba pin ai daukisa.",
-      "respuesta_correcta": "kiskan"[cite: 7]
+      "respuesta_correcta": "kiskan"
     },
     {
       "oracion": "Los niños pelaron el mango ➔ Tuktan nani ba mangu _______.",
-      "respuesta_correcta": "swakan"[cite: 7]
+      "respuesta_correcta": "swakan"
     },
     {
       "oracion": "Ella cocina yuca y quequisque ➔ Witin yauhra an duswa _______.",
-      "respuesta_correcta": "piakisa"[cite: 7]
+      "respuesta_correcta": "piakisa"
     },
     {
       "oracion": "La mujer raspa el coco ➔ Mairin ba kûku _______.",
-      "respuesta_correcta": "wisbisa"[cite: 7]
+      "respuesta_correcta": "wisbisa"
     },
     {
       "oracion": "Me gusta tomar refresco de piña ➔ Pihtu priskuka laya _______ ai daukisa.",
-      "respuesta_correcta": "din"[cite: 7]
+      "respuesta_correcta": "din"
     }
   ]
 }
