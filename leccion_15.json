@@ -6,66 +6,66 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: Yang naipa puskisa.",
-      "respuesta_guia": "Mi muela está hinchada."[cite: 10]
+      "respuesta_guia": "Mi muela está hinchada."
     },
     {
       "pregunta": "Traduzca: Yang pat maiwan sikbri.",
-      "respuesta_guia": "Ya me lavé la cara."[cite: 10]
+      "respuesta_guia": "Ya me lavé la cara."
     },
     {
       "pregunta": "Traduzca: Yang luhpi ra kiawalri.",
-      "respuesta_guia": "Yo besé a mi hijo."[cite: 10]
+      "respuesta_guia": "Yo besé a mi hijo."
     },
     {
       "pregunta": "Traduzca: Mairin ba ai tâwa aubi pitban.",
-      "respuesta_guia": "La mujer se peinó y trenzó su cabello."[cite: 10]
+      "respuesta_guia": "La mujer se peinó y trenzó su cabello."
     },
     {
       "pregunta": "Traduzca: Man kiamma unta tâski sa.",
-      "respuesta_guia": "Tu oído está sucio."[cite: 10]
+      "respuesta_guia": "Tu oído está sucio."
     },
     {
       "pregunta": "Traduzca: Witin ai nakra yula siksa sa.",
-      "respuesta_guia": "Sus pupilas son negras."[cite: 10]
+      "respuesta_guia": "Sus pupilas son negras."
     },
     {
       "pregunta": "Traduzca: Yang bîli ra twisi brisna.",
-      "respuesta_guia": "En mi boca tengo mi lengua."[cite: 10]
+      "respuesta_guia": "En mi boca tengo mi lengua."
     },
     {
       "pregunta": "Traduzca al Miskito: Véte a lavar tu cara.",
-      "respuesta_guia": "Man mamwan sikbaia was."[cite: 10]
+      "respuesta_guia": "Man mamwan sikbaia was."
     },
     {
       "pregunta": "Traduzca al Miskito: William cortó su barba negra.",
-      "respuesta_guia": "William ai krusa tamaya siksa ba klakan."[cite: 10]
+      "respuesta_guia": "William ai krusa tamaya siksa ba klakan."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Por qué no te peinas el pelo?",
-      "respuesta_guia": "¿Dîa kan man tâmwa aubras sma?"[cite: 10]
+      "respuesta_guia": "¿Dîa kan man tâmwa aubras sma?"
     }
   ],
   
   "completaciones": [
     {
       "oracion": "Ya me lavé la cara ➔ Yang _______ sikbri.",
-      "respuesta_correcta": "maiwan"[cite: 10]
+      "respuesta_correcta": "maiwan"
     },
     {
       "oracion": "Tu oído está muy sucio ➔ Man kiamma unta _______ sa.",
-      "respuesta_correcta": "tâski"[cite: 10]
+      "respuesta_correcta": "tâski"
     },
     {
       "oracion": "El anciano tiene la barba blanca ➔ Dama ba krusa tamaya _______ brisa.",
-      "respuesta_correcta": "pihni"[cite: 10]
+      "respuesta_correcta": "pihni"
     },
     {
       "oracion": "Estoy peinando mi cabello ➔ Yang tâiwa _______.",
-      "respuesta_correcta": "aubisna"[cite: 10]
+      "respuesta_correcta": "aubisna"
     },
     {
       "oracion": "Mi muela está inflamada ➔ Yang naipa _______.",
-      "respuesta_correcta": "puskisa"[cite: 10]
+      "respuesta_correcta": "puskisa"
     }
   ]
 }
