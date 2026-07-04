@@ -6,66 +6,66 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: Man Dawan ra tawram.",
-      "respuesta_guia": "Usted se convirtió al Señor."[cite: 8]
+      "respuesta_guia": "Usted se convirtió al Señor."
     },
     {
       "pregunta": "Traduzca: Yang Dawan warkka daukisna.",
-      "respuesta_guia": "Yo hago la voluntad (obra) del Señor."[cite: 8]
+      "respuesta_guia": "Yo hago la voluntad (obra) del Señor."
     },
     {
       "pregunta": "Traduzca: Yang luhpi pat kristian sakri.",
-      "respuesta_guia": "Yo ya bauticé a mi hijo."[cite: 8]
+      "respuesta_guia": "Yo ya bauticé a mi hijo."
     },
     {
       "pregunta": "Traduzca: ¿Man nani saurkam pat sakram ki?",
-      "respuesta_guia": "¿Ya se confesaron ustedes?"[cite: 8]
+      "respuesta_guia": "¿Ya se confesaron ustedes?"
     },
     {
       "pregunta": "Traduzca: Yang sandi bani tibilki brisna.",
-      "respuesta_guia": "Yo comulgo todos los domingos."[cite: 8]
+      "respuesta_guia": "Yo comulgo todos los domingos."
     },
     {
       "pregunta": "Traduzca: Jisas upla sut ra latwan kaikisa.",
-      "respuesta_guia": "Jesús ama a todas las gentes."[cite: 8]
+      "respuesta_guia": "Jesús ama a todas las gentes."
     },
     {
       "pregunta": "Traduzca: Jisas ba raiti wina buan.",
-      "respuesta_guia": "Jesús resucitó de la tumba."[cite: 8]
+      "respuesta_guia": "Jesús resucitó de la tumba."
     },
     {
       "pregunta": "Traduzca al Miskito: Yo te perdonarí / Yo te perdono.",
-      "respuesta_guia": "Yang man ra padin mai munisna."[cite: 8]
+      "respuesta_guia": "Yang man ra padin mai munisna."
     },
     {
       "pregunta": "Traduzca al Miskito: ¿Quién es tu compadre?",
-      "respuesta_guia": "¿Ya ba man librahkam sa?"[cite: 6, 8]
+      "respuesta_guia": "¿Ya ba man librahkam sa?"
     },
     {
       "pregunta": "Traduzca al Miskito: Jesús murió en la cruz por nosotros.",
-      "respuesta_guia": "Jisas ba yawan dukiara dus prihni ra pruan."[cite: 8]
+      "respuesta_guia": "Jisas ba yawan dukiara dus prihni ra pruan."
     }
   ],
   
   "completaciones": [
     {
       "oracion": "Yo fui salvado por Cristo ➔ Kraist mita swaki _______ sakankan.",
-      "respuesta_correcta": "ai"[cite: 8]
+      "respuesta_correcta": "ai"
     },
     {
       "oracion": "Usted será salvado por Cristo ➔ Kraist mita swaki _______ sakan kabia.",
-      "respuesta_correcta": "mai"[cite: 8]
+      "respuesta_correcta": "mai"
     },
     {
       "oracion": "Jesús resucitó de la tumba ➔ Jisas ba _______ wina buan.",
-      "respuesta_correcta": "raiti"[cite: 8]
+      "respuesta_correcta": "raiti"
     },
     {
       "oracion": "Nosotros vamos a la iglesia ➔ Yawan _______ watla ra waia.",
-      "respuesta_correcta": "prias"[cite: 8]
+      "respuesta_correcta": "prias"
     },
     {
       "oracion": "Tener fe o creer en el Señor ➔ Dawan ra kasak _______.",
-      "respuesta_correcta": "lukaia"[cite: 8]
+      "respuesta_correcta": "lukaia"
     }
   ]
 }
