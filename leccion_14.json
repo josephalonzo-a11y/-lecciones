@@ -6,39 +6,39 @@
   "preguntas_interactivas": [
     {
       "pregunta": "Traduzca: Yang biaira plapisa.",
-      "respuesta_guia": "Tengo diarrea."[cite: 9]
+      "respuesta_guia": "Tengo diarrea."
     },
     {
       "pregunta": "Traduzca: Yang nani dusi klauhisa.",
-      "respuesta_guia": "Nos duele el hueso."[cite: 9]
+      "respuesta_guia": "Nos duele el hueso."
     },
     {
       "pregunta": "Traduzca: ¿Ahkia wina rih mai daukisa?",
-      "respuesta_guia": "¿Desde cuándo tienes calentura?"[cite: 9]
+      "respuesta_guia": "¿Desde cuándo tienes calentura?"
     },
     {
       "pregunta": "Traduzca: Tala sikniska mai alkisa.",
-      "respuesta_guia": "Tienes diarrea de sangre (disentería)."[cite: 9]
+      "respuesta_guia": "Tienes diarrea de sangre (disentería)."
     },
     {
       "pregunta": "Traduzca: Yang mamiki siahka karna alkisa.",
-      "respuesta_guia": "Mi mamá está cogiendo una tos fuerte."[cite: 9]
+      "respuesta_guia": "Mi mamá está cogiendo una tos fuerte."
     },
     {
       "pregunta": "Traduzca: Tuktan sirpi ba aikaban.",
-      "respuesta_guia": "El niño pequeño vomitó."[cite: 9]
+      "respuesta_guia": "El niño pequeño vomitó."
     },
     {
       "pregunta": "Traduzca: Yang waiyata ra klakri, bara sukwan.",
-      "respuesta_guia": "Yo corté mi pierna y se infectó."[cite: 9]
+      "respuesta_guia": "Yo corté mi pierna y se infectó."
     },
     {
       "pregunta": "Traduzca: Yang iska sip pain krahbras.",
-      "respuesta_guia": "No puedo orinar bien."[cite: 9]
+      "respuesta_guia": "No puedo orinar bien."
     },
     {
       "pregunta": "Traduzca al Miskito: El niño está vomitando en la iglesia.",
-      "respuesta_guia": "Tuktan ba prias watla ra aikabisa."[cite: 8, 9]
+      "respuesta_guia": "Tuktan ba prias watla ra aikabisa."
     },
     {
       "pregunta": "Traduzca al Miskito: Mi pierna está quebrada.",
@@ -46,30 +46,30 @@
     },
     {
       "pregunta": "Traduzca al Miskito: Él tiene calentura.",
-      "respuesta_guia": "Witin ra rih daukisa."[cite: 9]
+      "respuesta_guia": "Witin ra rih daukisa."
     }
   ],
   
   "completaciones": [
     {
       "oracion": "Tengo un fuerte dolor en mi estómago ➔ Yang _______ plapisa an klauhisa.",
-      "respuesta_correcta": "biaira"[cite: 9]
+      "respuesta_correcta": "biaira"
     },
     {
       "oracion": "El hueso de mi brazo me duele mucho ➔ Yang klaihkla _______ klauhisa.",
-      "respuesta_correcta": "dusa"[cite: 9]
+      "respuesta_correcta": "dusa"
     },
     {
       "oracion": "Si tomas agua sucia te darán lombrices ➔ Man lî saura disma kaka, _______ brima.",
-      "respuesta_correcta": "liwa"[cite: 9]
+      "respuesta_correcta": "liwa"
     },
     {
       "oracion": "Fiebre o calentura corporal ➔ Yu yumhpa _______ dauki kan.",
-      "respuesta_correcta": "rih"[cite: 9]
+      "respuesta_correcta": "rih"
     },
     {
       "oracion": "Necesito medicina para curar la tos ➔ Siahka saura brisna ba mita _______ nitna sa.",
-      "respuesta_correcta": "sîka"[cite: 9]
+      "respuesta_correcta": "sîka"
     }
   ]
 }
